@@ -15,6 +15,8 @@ Welcome to Duke University's Machine Learning and Imaging course! This class aim
 
 Updated syllabus (March 20, 2020) is available [here](./data/syllabus.pdf).
 
+And here is a summary of changes made to the class as we transition to online-only instruction [changes_summary](./data/changes_summary.pdf).
+
 ### Learning Goals
 By the end of this course, my aim is for you to be comfortable with the following:
 1. Understand the core mathematical concepts underlying machine learning
