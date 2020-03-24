@@ -22,11 +22,10 @@ permalink: /lectures/
 |[14a](https://www.youtube.com/)|27 February 2020|[CNNs for object detection and segmentation(PDF)](/lectures/lecture_14a_object_detection_segmentation.pdf)
 |[14b](https://www.youtube.com/)|3 March 2020|[CNNs as Autoencoders (PDF)](/lectures/lecture_14b_segmentation_autoencoder.pdf)
 |[15](https://www.youtube.com/)|5 March 2020|[Introduction to Physical Layers in Machine Learning (PDF)](/lectures/lecture_15_intro_physical_CNNs.pdf)
+|[16](https://www.youtube.com/)|24 March 2020|[Introduction to Fourier Optics (PDF)](/lectures/lecture_16_intro_Fourier_optics.pdf)
 
 
 <!--
-|[16](https://www.youtube.com/)|29 Oct 2019|[Examples of Physical Layers in CNNs (PDF)](/lectures/lecture_16_examples_physical_layers_CNN.pdf)
-|[17](https://www.youtube.com/)|31 Oct 2019|[Introduction to Fourier Optics (PDF)](/lectures/lecture_17_intro_Fourier_optics.pdf)
 |[18](https://www.youtube.com/)|5 Nov 2019|[Physical Layers with Coherent Fields (PDF)](/lectures/lecture_18_coherent_physical_layers.pdf)
 |[19](https://www.youtube.com/)|7 Nov 2019|[Physical Layer Guidelines and Implementations (PDF)](/lectures/lecture_19_physical_layer_guidelines.pdf)
 |[20](https://www.youtube.com/)|12 Nov 2019|[Published Physical CNN Examples and Ethics (PDF)](/lectures/lecture_20_PhysicalCNN_examples.pdf)
