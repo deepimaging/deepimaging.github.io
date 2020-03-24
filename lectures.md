@@ -3,7 +3,7 @@ layout: page
 title: Lectures
 permalink: /lectures/
 ---
-| Lec #                       | Date         |  Topics             
+| Lec # and Video Link                       | Date         |  Topics             
 |:---------------------------:|:------------:|:-------------------:
 |[0](https://www.youtube.com/)|9 January 2020|[Introduction (PDF)](/lectures/lecture_0_introduction.pdf)
 |[1](https://www.youtube.com/)|14 January 2020|[Overview of Machine Learning and Imaging (PDF)](/lectures/lecture_1_ML-Imaging_Summary_final.pdf)
