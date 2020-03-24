@@ -22,7 +22,7 @@ permalink: /lectures/
 |[14a](https://www.youtube.com/)|27 February 2020|[CNNs for object detection and segmentation(PDF)](/lectures/lecture_14a_object_detection_segmentation.pdf)
 |[14b](https://www.youtube.com/)|3 March 2020|[CNNs as Autoencoders (PDF)](/lectures/lecture_14b_segmentation_autoencoder.pdf)
 |[15](https://www.youtube.com/)|5 March 2020|[Introduction to Physical Layers in Machine Learning (PDF)](/lectures/lecture_15_intro_physical_CNNs.pdf)
-|[16](https://www.youtube.com/)|24 March 2020|[Introduction to Fourier Optics (PDF)](/lectures/lecture_16_intro_Fourier_optics.pdf)
+|[16](https:/deepimaging.io/videos/lecture_16.mp4)|24 March 2020|[Introduction to Fourier Optics (PDF)](/lectures/lecture_16_intro_Fourier_optics.pdf)
 
 
 <!--
