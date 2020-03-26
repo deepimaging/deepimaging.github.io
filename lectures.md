@@ -3,7 +3,7 @@ layout: page
 title: Lectures
 permalink: /lectures/
 ---
-| Lec # and Video Link                       | Date         |  Topics             
+| Video Link (Click Lect. #)                       | Date         |  Topics             
 |:---------------------------:|:------------:|:-------------------:
 |[0](https://www.youtube.com/)|9 January 2020|[Introduction (PDF)](/lectures/lecture_0_introduction.pdf)
 |[1](https://www.youtube.com/)|14 January 2020|[Overview of Machine Learning and Imaging (PDF)](/lectures/lecture_1_ML-Imaging_Summary_final.pdf)
@@ -23,10 +23,10 @@ permalink: /lectures/
 |[14b](https://www.youtube.com/)|3 March 2020|[CNNs as Autoencoders (PDF)](/lectures/lecture_14b_segmentation_autoencoder.pdf)
 |[15](https://www.youtube.com/)|5 March 2020|[Introduction to Physical Layers in Machine Learning (PDF)](/lectures/lecture_15_intro_physical_CNNs.pdf)
 |[16](https://deepimaging.io/videos/lecture_16.mp4)|24 March 2020|[Introduction to Fourier Optics (PDF)](/lectures/lecture_16_intro_Fourier_optics.pdf)
+|[17](https://deepimaging.io/videos/lecture_17.mp4)|26 March 2020|[Physical Layers with Coherent Fields (PDF)](/lectures/lecture_17_coherent_physical_layers.pdf)
 
 
 <!--
-|[18](https://www.youtube.com/)|5 Nov 2019|[Physical Layers with Coherent Fields (PDF)](/lectures/lecture_18_coherent_physical_layers.pdf)
 |[19](https://www.youtube.com/)|7 Nov 2019|[Physical Layer Guidelines and Implementations (PDF)](/lectures/lecture_19_physical_layer_guidelines.pdf)
 |[20](https://www.youtube.com/)|12 Nov 2019|[Published Physical CNN Examples and Ethics (PDF)](/lectures/lecture_20_PhysicalCNN_examples.pdf)
 |[21](https://www.youtube.com/)|14 Nov 2019|[Recurrent Neural Networks (PDF)](/lectures/lecture_21_RNNs.pdf)
