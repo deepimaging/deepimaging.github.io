@@ -22,9 +22,9 @@ permalink: /lectures/
 |[14a](https://www.youtube.com/)|27 February 2020|[CNNs for object detection and segmentation(PDF)](/lectures/lecture_14a_object_detection_segmentation.pdf)
 |[14b](https://www.youtube.com/)|3 March 2020|[CNNs as Autoencoders (PDF)](/lectures/lecture_14b_segmentation_autoencoder.pdf)
 |[15](https://www.youtube.com/)|5 March 2020|[Introduction to Physical Layers in Machine Learning (PDF)](/lectures/lecture_15_intro_physical_CNNs.pdf)
-|[16](https://deepimaging.io/videos/lecture_16.mp4)|24 March 2020|[Introduction to Fourier Optics (PDF)](/lectures/lecture_16_intro_Fourier_optics.pdf)
-|[17](https://deepimaging.io/videos/lecture_17.mp4)|26 March 2020|[Physical Layers with Coherent Fields (PDF)](/lectures/lecture_17_coherent_physical_layers.pdf)
-|[18](https://deepimaging.io/videos/lecture_18.mp4)|31 March 2020|[Physical Layer Guidelines and Implementations (PDF)](/lectures/lecture_18_physical_layer_guidelines.pdf)
+|[16](https://www.dropbox.com/s/15xv22ar3o51me1/lecture_16.mp4?dl=0)|24 March 2020|[Introduction to Fourier Optics (PDF)](/lectures/lecture_16_intro_Fourier_optics.pdf)
+|[17](https://www.dropbox.com/s/2bt4xs5lz5s3njh/lecture_17.mp4?dl=0)|26 March 2020|[Physical Layers with Coherent Fields (PDF)](/lectures/lecture_17_coherent_physical_layers.pdf)
+|[18](https://www.dropbox.com/s/5rc6wmbjosok0jy/lecture_18.mp4?dl=0)|31 March 2020|[Physical Layer Guidelines and Implementations (PDF)](/lectures/lecture_18_physical_layer_guidelines.pdf)
 
 <!--
 |[20](https://www.youtube.com/)|12 Nov 2019|[Published Physical CNN Examples and Ethics (PDF)](/lectures/lecture_20_PhysicalCNN_examples.pdf)
