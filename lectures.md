@@ -26,10 +26,10 @@ permalink: /lectures/
 |[17](https://www.dropbox.com/s/2bt4xs5lz5s3njh/lecture_17.mp4?dl=0)|26 March 2020|[Physical Layers with Coherent Fields (PDF)](/lectures/lecture_17_coherent_physical_layers.pdf)
 |[18](https://www.dropbox.com/s/5rc6wmbjosok0jy/lecture_18.mp4?dl=0)|31 March 2020|[Physical Layer Guidelines and Implementations (PDF)](/lectures/lecture_18_physical_layer_guidelines.pdf)
 |[19](https://www.dropbox.com/s/1gul07q88dcrjim/lecture_19.mp4?dl=0)|2 April 2020|[Published Physical CNN Examples and Ethics (PDF)](/lectures/lecture_19_PhysicalCNN_examples.pdf)
+|[20](https://www.dropbox.com/s/srvkozj1o1huoh1/lecture_20.mp4?dl=0)|7 April 2020|[Recurrent Neural Networks (PDF)](/lectures/lecture_20_RNNs.pdf)
 
 
 <!--
-|[21](https://www.youtube.com/)|14 Nov 2019|[Recurrent Neural Networks (PDF)](/lectures/lecture_21_RNNs.pdf)
 |[22](https://www.youtube.com/)|19 Nov 2019|[Reinforcement Learning (PDF)](/lectures/lecture_22_reinforcement_learning.pdf)
 |[23](https://www.youtube.com/)|21 Nov 2019|[Looking ahead – machine learning and imaging in 10 years (PDF)](/lectures/lecture_23_future_directions.pdf)
 |[24](https://www.youtube.com/)|26 Nov 2019|[Machine Learning + Imaging Review (PDF)](/lectures/lecture_24_deep_imaging_review.pdf)
