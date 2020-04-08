@@ -12,7 +12,5 @@ permalink: /assigns/
 4. [Homework 3](/homework/hw3.md)
 6. [Project Proposals](/homework/projectproposal.md)
 5. [Homework 4](/homework/hw4.md) 
-
-<!---
 7. [Homework 5](/homework/hw5.md)
--->
+
