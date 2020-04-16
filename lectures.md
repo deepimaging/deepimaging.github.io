@@ -29,11 +29,9 @@ permalink: /lectures/
 |[20](https://www.dropbox.com/s/srvkozj1o1huoh1/lecture_20.mp4?dl=0)|7 April 2020|[Recurrent Neural Networks (PDF)](/lectures/lecture_20_RNNs.pdf)
 |[21](https://www.dropbox.com/s/nwjiu3j9hr1pixn/lecture_21.mp4?dl=0)|9 April 2020|[Reinforcement Learning (PDF)](/lectures/lecture_21_reinforcement_learning.pdf)
 |[22](https://www.dropbox.com/s/x1at4xn98z791kg/lecture_22.mp4?dl=0)|14 April 2020|[Looking ahead – machine learning and imaging in 10 years (PDF)](/lectures/lecture_22_future_directions.pdf)
-
+|[23](https://www.dropbox.com/s/7mpto1io200fjda/lecture_23.mp4?dl=0)|16 April 2020|[Machine Learning + Imaging Review (PDF)](/lectures/lecture_23_deep_imaging_review.pdf)
 
 <!--
-|[24](https://www.youtube.com/)|26 Nov 2019|[Machine Learning + Imaging Review (PDF)](/lectures/lecture_24_deep_imaging_review.pdf)
-
 -->
 
 
