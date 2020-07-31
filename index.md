@@ -4,7 +4,7 @@
 
 layout: home
 
-title: Machine Learning and Imaging - Spring 2020
+title: Machine Learning and Imaging - Fall 2020
 ---
 
 <p align="center">
