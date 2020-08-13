@@ -14,6 +14,7 @@ title: Machine Learning and Imaging - Fall 2020
 Welcome to Duke University's Machine Learning and Imaging (BME 548) class! This class aims to teach you how they to improve the performance of you deep learning algorithms, by jointly optimizing the hardware that acquired your data. It primiarly focuses on imaging data - from cameras, microscopes, MRI, CT, and ultrasound systems, for example. It begins with overview of machine learning and imaging science, and then focuses on the intersection of the two fields. This class is for you if 1) you would with imaging systems and you would like to learn more about machine learning, 2) if you are familiar with machine learning and would like to know more about how your data is gathered, 3) if you work with both imaging systems and machine learning and would like to hear a new perspective on the topic, or 4) if you work with neither imaging systems nor machine learning but have a strong mathematical background and are motivated to learn about both.
 
 The syllabus for Fall 2020 is available [here](./data/syllabus.pdf).
+
 Additional useful information, and guidelines that we'll follow this uniqu semester, are listed [here](./data/Additional_syllabus_material.pdf).
 
 This semester, we'll have our class online. Lectures and lab sections will now be held online via Zoom - please check Slack for details about how to join in to the meetings!
