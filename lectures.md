@@ -5,7 +5,7 @@ permalink: /lectures/
 ---
 | Video Link (Click Lect. #)                       | Date         |  Topics             
 |:---------------------------:|:------------:|:-------------------:
-|[0](https://www.youtube.com/)|9 January 2020|[Introduction (PDF)](/lectures/lecture_0_introduction.pdf)
+|[0](https://www.dropbox.com/s/u0728madg0tizof/lecture_0.mp4?dl=0)|18 August 2020|[Introduction (PDF)](/lectures/lecture_0_introduction.pdf)
 
 
 <!--
