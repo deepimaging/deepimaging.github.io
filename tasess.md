@@ -6,6 +6,10 @@ permalink: /tasess/
 
 TA session Python notebooks and other information will be uploaded here. 
 
+| TA Session #                       | Week of         |  Resources             
+|:---------------------------:|:------------:|:-------------------:
+|1 |August 24th and 26th 2020 | [Workbook 1(ipynb)](/data/Lab1_workbook.ipynb), [TA Notebook (ipynb)](/data/TA_session_week_2.ipynb)
+
 <!--
 | TA Session #                       | Week of         |  Resources             
 |:---------------------------:|:------------:|:-------------------:
