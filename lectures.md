@@ -9,9 +9,9 @@ permalink: /lectures/
 |[1](https://www.dropbox.com/s/i4643940p5unnth/lecture_1.mp4?dl=0)|20 August 2020|[Overview of Machine Learning and Imaging (PDF)](/lectures/lecture_1_ML-Imaging_Summary_final.pdf)
 |[2](https://www.dropbox.com/s/i4643940p5unnth/lecture_1.mp4?dl=0)|20  August 2020|[Continuous Mathematics Review (PDF)](/lectures/lecture_2_math_continuous.pdf)
 |[3](https://www.dropbox.com/s/9gsryu07j8l4pgh/lecture_3.mp4?dl=0)|25 August 2020|[From Continuous to Discrete Mathematics (PDF)](/lectures/lecture_3_continuous_discrete_math.pdf)
+|[4](https://www.youtube.com/)|27 August 2020|[Discrete Functions (PDF)](/lectures/lecture_4_math_discrete.pdf)
 
 <!--
-|[4](https://www.youtube.com/)|21 January 2020|[Discrete Functions (PDF)](/lectures/lecture_4_math_discrete.pdf)
 |[5](https://www.youtube.com/)|23 January 2020|[Introduction to Optimization (PDF)](/lectures/lecture_5_intro_optimization.pdf)
 |[6](https://www.youtube.com/)|29 January 2020|[Ingredients for Machine Learning (PDF)](/lectures/lecture_6_optimization-to-ML.pdf)
 |[7](https://www.youtube.com/)|31 January 2020|[Linear and Logistic Classification (PDF)](/lectures/lecture_7_ML-principles.pdf)
