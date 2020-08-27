@@ -36,7 +36,11 @@ permalink: /lectures/
 
 
 ### Lecture Resources
+Here are a few links to useful additional material for reading and viewing:
+1. J. Goodman's *Introduction to Fourier Optics* [Link](https://www.dropbox.com/s/klavsxm4l7jbnyh/Introduction%20to%20Fourier%20Optics%202nd%20-%20J.%20Goodman.pdf?dl=0)
+2. The Matrix Cookbook [Link](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
+### Jupyter Notebook Examples
 <!--
 1. [Jupyter Notebook: Tensorflow basic optimization example](/data/basic_tensorflow_eager_example.ipynb)
 2. [Jupyter Notebook: High level intro to Neural Networks in Tensorflow](/data/high_level_tf_intro.ipynb)
