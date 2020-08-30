@@ -10,6 +10,7 @@ TA session Python notebooks and other information will be uploaded here.
 |:---------------------------:|:------------:|:-------------------:
 |1 |August 24th and 26th 2020 | [Workbook 1(ipynb)](/data/Lab1_workbook.ipynb), [TA Notebook (ipynb)](/data/TA_session_week_2.ipynb)
 |2 |August 31st and Sept 2nd 2020 | [Workbook 2(ipynb)](/data/BME548L_lab2.ipynb)
+
 <!--
 | TA Session #                       | Week of         |  Resources             
 |:---------------------------:|:------------:|:-------------------:
