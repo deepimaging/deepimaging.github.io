@@ -13,10 +13,10 @@ permalink: /lectures/
 |[5](https://www.dropbox.com/s/vrk6d4yl363ny86/lecture_5.mp4?dl=0)|1 September 2020|[Introduction to Optimization (PDF)](/lectures/lecture_5_intro_optimization.pdf)
 |[6](https://www.dropbox.com/s/9ckhlfwiqf42sdx/lecture_6.mp4?dl=0)|3 September 2020|[Ingredients for Machine Learning (PDF)](/lectures/lecture_6_optimization-to-ML.pdf)
 |[7](https://www.dropbox.com/s/85jm6vninwxwcqz/lecture_7.mp4?dl=0)|8 September 2020|[Ingredients for Machine Learning, Part II (PDF)](/lectures/lecture_6_optimization-to-ML.pdf)
+|[8](https://www.dropbox.com/s/7asnvpihs4d7r1z/lecture_8.mp4?dl=0)|10 September 2020|[Linear and Logistic Classification (PDF)](/lectures/lecture_7_ML-principles.pdf)
 
 
 <!--
-|[7](https://www.youtube.com/)|31 January 2020|[Linear and Logistic Classification (PDF)](/lectures/lecture_7_ML-principles.pdf)
 |[8](https://www.youtube.com/)|4 February 2020|["Deep" Networks: theoretical motvation (PDF)](/lectures/lecture_8_ML_Theory.pdf)
 |[9](https://www.youtube.com/)|6,11 February 2020|[Convolutional Neural Networks (PDF)](/lectures/lecture_9_intro_to_CNN's.pdf)
 |[10](https://www.youtube.com/)|11,13 February 2020|[Backpropagation in Deep Networks (PDF)](/lectures/lecture_10_Backpropagation.pdf)
