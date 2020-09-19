@@ -8,9 +8,9 @@ permalink: /assigns/
 
 
 1. [Homework 1](/homework/hw1.md)
+2. [Homework 2](/homework/hw2.md)
 
 <!--
-3. [Homework 2](/homework/hw2.md)
 4. [Homework 3](/homework/hw3.md)
 6. [Project Proposals](/homework/projectproposal.md)
 5. [Homework 4](/homework/hw4.md) 
