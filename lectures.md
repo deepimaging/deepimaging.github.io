@@ -17,9 +17,10 @@ permalink: /lectures/
 |[9](https://www.dropbox.com/s/ab5ajj5fb6lttci/lecture_9.mp4?dl=0)|15 September 2020|["Deep" Networks: theoretical motvation (PDF)](/lectures/lecture_8_ML_Theory.pdf)
 |[10](https://www.dropbox.com/s/0xoamujllumeyhk/lecture_10.mp4?dl=0)|17 September 2020|[Convolutional Neural Networks (PDF)](/lectures/lecture_9_intro_to_CNN's.pdf)
 |[11](https://www.dropbox.com/s/phiysjs05mq4m9g/lecture_11.mp4?dl=0)|22 September 2020|[Convolutional Neural Networks (PDF)](/lectures/lecture_9_intro_to_CNN's.pdf)
+|[12](https://www.youtube.com/)|24 September 2020|[Automatic Differentiation and Backpropagation (PDF)](/lectures/lecture_10_Backpropagation.pdf)
 
 <!--
-|[11](https://www.youtube.com/)|18 February 2020|[Tools for your Deep Learning Toolbox (PDF)](/lectures/lecture_11_useful_DL_tools.pdf)
+|[12](https://www.youtube.com/)|24 September 2020|[Tools for your Deep Learning Toolbox (PDF)](/lectures/lecture_11_useful_DL_tools.pdf)
 |[12](https://www.youtube.com/)|20 February 2020|[CNN implementation and visualization (PDF)](/lectures/lecture_12_CNNs_practical_tips.pdf)
 |[13](https://www.youtube.com/)|25 February 2020|[CNN visualization tools and extensions (PDF)](/lectures/lecture_13_CNN-visualization-extensions.pdf)
 |[14a](https://www.youtube.com/)|27 February 2020|[CNNs for object detection and segmentation(PDF)](/lectures/lecture_14a_object_detection_segmentation.pdf)
