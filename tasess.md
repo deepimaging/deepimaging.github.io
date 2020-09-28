@@ -13,6 +13,7 @@ TA session Python notebooks and other information will be uploaded here.
 |3 |Sept 7th and 9th 2020 | [Machine Learning Pipeline](/tasess/ml_pipeline_F20.pdf)
 |4 |Sept 14th and 16th 2020| [Hands on Machine Learning](/data/BME_548L_Lab4.ipynb)
 |5 |Sept 21st and 23rd 2020| [Neural Networks in Depth](/tasess/BME_548L_Lab5.ipynb)
+|6 |Sept 28th and 30th 2020| [Convolutional Neural Networks](/data/BME_548L_lab6.ipynb)
 
 <!--
 | TA Session #                       | Week of         |  Resources             
