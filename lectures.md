@@ -14,7 +14,7 @@ permalink: /lectures/
 |[6](https://www.dropbox.com/s/9ckhlfwiqf42sdx/lecture_6.mp4?dl=0)|3 September 2020|[Ingredients for Machine Learning (PDF)](/lectures/lecture_6_optimization-to-ML.pdf)
 |[7](https://www.dropbox.com/s/85jm6vninwxwcqz/lecture_7.mp4?dl=0)|8 September 2020|[Ingredients for Machine Learning, Part II (PDF)](/lectures/lecture_6_optimization-to-ML.pdf)
 |[8](https://www.dropbox.com/s/7asnvpihs4d7r1z/lecture_8.mp4?dl=0)|10 September 2020|[Linear and Logistic Classification (PDF)](/lectures/lecture_7_ML-principles.pdf)
-|[9](https://www.dropbox.com/s/ab5ajj5fb6lttci/lecture_9.mp4?dl=0)|15 September 2020|["Deep" Networks: theoretical motvation (PDF)](/lectures/lecture_8_ML_Theory.pdf)
+|[9](https://www.dropbox.com/s/ab5ajj5fb6lttci/lecture_9.mp4?dl=0)|15 September 2020|["Deep" Networks: theoretical motivation (PDF)](/lectures/lecture_8_ML_Theory.pdf)
 |[10](https://www.dropbox.com/s/0xoamujllumeyhk/lecture_10.mp4?dl=0)|17 September 2020|[Convolutional Neural Networks (PDF)](/lectures/lecture_9_intro_to_CNN's.pdf)
 |[11](https://www.dropbox.com/s/phiysjs05mq4m9g/lecture_11.mp4?dl=0)|22 September 2020|[Convolutional Neural Networks (PDF)](/lectures/lecture_9_intro_to_CNN's.pdf)
 |[12](https://www.dropbox.com/s/hyu749d56ly48mx/lecture_12.mp4?dl=0)|24 September 2020|[Automatic Differentiation and Backpropagation (PDF)](/lectures/lecture_10_Backpropagation.pdf)
