@@ -42,6 +42,7 @@ permalink: /lectures/
 Here are a few links to useful additional material for reading and viewing:
 1. J. Goodman's *Introduction to Fourier Optics* [Link](https://www.dropbox.com/s/klavsxm4l7jbnyh/Introduction%20to%20Fourier%20Optics%202nd%20-%20J.%20Goodman.pdf?dl=0)
 2. The Matrix Cookbook [Link](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+3. An introduction to conjugate gradient descent without all the pain [Link](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
 
 ### Jupyter Notebook Examples
 1. [Jupyter Notebook: Tensorflow basic optimization example](/data/basic_tensorflow_eager_example.ipynb)
