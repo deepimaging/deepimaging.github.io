@@ -14,6 +14,7 @@ TA session Python notebooks and other information will be uploaded here.
 |4 |Sept 14th and 16th 2020| [Hands on Machine Learning](/data/BME_548L_Lab4.ipynb)
 |5 |Sept 21st and 23rd 2020| [Neural Networks in Depth](/tasess/BME_548L_Lab5.ipynb)
 |6 |Sept 28th and 30th 2020| [Convolutional Neural Networks](/data/BME_548L_lab6.ipynb)
+|7 |Oct 5th and 7th 2020| [Established Architectures](/data/BME_548L_lab_7.ipynb)
 
 <!--
 | TA Session #                       | Week of         |  Resources             
