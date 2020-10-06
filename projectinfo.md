@@ -6,12 +6,12 @@ permalink: /proj-info/
 Here is some information about the final project:
 1. You can work alone or in a group (up to 4 people), required effort will scale with # of people
 2. Select a “base” dataset (see examples below)
-3. You'll need to simulate parameters of a physical (imaging) system with base dataset
-4. You'll then need to train a deep neural net, with simulated dataset, and the physical parameters in mind
+3. You'll need to simulate parameters of a physical (imaging) system with a base dataset to form a modified dataset
+4. You'll then need to train a deep neural network, with the modified dataset, and the physical parameters in mind
 5. Please see slides from class for a number of examples and discussions 
 
 Here is a link to the final project instructions: 
-[Final project instructions](/data/BME590_Project_Instructions.pdf)
+[Final project instructions](/data/BME548_Project_Instructions.pdf)
 
 Here is a link to a template for the final project research-style paper:
 [Template for research-style paper](/data/paper_template.zip)
@@ -31,9 +31,9 @@ Using the above files, you'll thus turn in the following:
 
 
 Here are some important dates:
-- Final code and presentation due via email: Friday April 24 at 2pm
-- Final presentation paper write-up, website template and permission form due: Wednesday April 29 at noon
-- Final presentation time slots: Thursday 4/23 3pm – 4:30pm, Friday 4/24 2pm - 3:30pm, and Monday 4/27 2:00 – 3:30 pm
+- Final code and presentation due via email: Tuesday November 24 at noon
+- Final presentation paper write-up, website template and permission form due: Tuesday November 24 at midnight
+- Final presentation time slots: Tuesday November 24, 2pm - 5pm
 - Final presentations will occur via Zoom, please coordinate with team members and practice ahead of time!
 
 
