@@ -20,10 +20,10 @@ permalink: /lectures/
 |[12](https://www.dropbox.com/s/hyu749d56ly48mx/lecture_12.mp4?dl=0)|24 September 2020|[Automatic Differentiation and Backpropagation (PDF)](/lectures/lecture_10_Backpropagation.pdf)
 |[13](https://www.dropbox.com/s/3gs0fcalr84yl2k/lecture_13.mp4?dl=0)|29 September 2020|[Tools for your Deep Learning Toolbox (PDF)](/lectures/lecture_11_useful_DL_tools.pdf)
 |[14](https://www.dropbox.com/s/roiap9bno1sm1y8/lecture_14.mp4?dl=0)|1 October 2020|[CNN implementation details (PDF)](/lectures/lecture_12_CNNs_practical_tips.pdf)
+|[15](https://www.youtube.com/)|6 October 2020|[CNN visualization tools and extensions (PDF)](/lectures/lecture_13_CNN-visualization-extensions.pdf)
 
 
 <!--
-|[13](https://www.youtube.com/)|25 February 2020|[CNN visualization tools and extensions (PDF)](/lectures/lecture_13_CNN-visualization-extensions.pdf)
 |[14a](https://www.youtube.com/)|27 February 2020|[CNNs for object detection and segmentation(PDF)](/lectures/lecture_14a_object_detection_segmentation.pdf)
 |[14b](https://www.youtube.com/)|3 March 2020|[CNNs as Autoencoders (PDF)](/lectures/lecture_14b_segmentation_autoencoder.pdf)
 |[15](https://www.youtube.com/)|5 March 2020|[Introduction to Physical Layers in Machine Learning (PDF)](/lectures/lecture_15_intro_physical_CNNs.pdf)
