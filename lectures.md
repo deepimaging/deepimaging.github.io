@@ -20,7 +20,7 @@ permalink: /lectures/
 |[12](https://www.dropbox.com/s/hyu749d56ly48mx/lecture_12.mp4?dl=0)|24 September 2020|[Automatic Differentiation and Backpropagation (PDF)](/lectures/lecture_10_Backpropagation.pdf)
 |[13](https://www.dropbox.com/s/3gs0fcalr84yl2k/lecture_13.mp4?dl=0)|29 September 2020|[Tools for your Deep Learning Toolbox (PDF)](/lectures/lecture_11_useful_DL_tools.pdf)
 |[14](https://www.dropbox.com/s/roiap9bno1sm1y8/lecture_14.mp4?dl=0)|1 October 2020|[CNN implementation details (PDF)](/lectures/lecture_12_CNNs_practical_tips.pdf)
-|[15](https://www.youtube.com/)|6 October 2020|[CNN visualization tools and extensions (PDF)](/lectures/lecture_13_CNN-visualization-extensions.pdf)
+|[15](https://www.dropbox.com/s/rg310dcsk95r9i1/lecture_15.mp4?dl=0)|6 October 2020|[CNN visualization tools and extensions (PDF)](/lectures/lecture_13_CNN-visualization-extensions.pdf)
 
 
 <!--
