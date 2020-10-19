@@ -16,6 +16,7 @@ TA session Python notebooks and other information will be uploaded here.
 |6 |Sept 28th and 30th 2020| [Convolutional Neural Networks](/data/BME_548L_lab6.ipynb)
 |7 |Oct 5th and 7th 2020| [Established Architectures](/data/BME_548L_lab_7.ipynb)
 |8 |Oct 12th and 14th 2020| [Custom Layers](/data/BME_548L_Lab8.ipynb)
+|9 |Oct 19th and 21st 2020| [Beyond Image Classification](/data/BME_548L_Lab9.ipynb)
 
 <!--
 | TA Session #                       | Week of         |  Resources             
