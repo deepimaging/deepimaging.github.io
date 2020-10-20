@@ -12,11 +12,11 @@ TA session Python notebooks and other information will be uploaded here.
 |2 |August 31st and Sept 2nd 2020 | [Workbook 2(ipynb)](/data/BME548L_lab2.ipynb)
 |3 |Sept 7th and 9th 2020 | [Machine Learning Pipeline](/tasess/ml_pipeline_F20.pdf)
 |4 |Sept 14th and 16th 2020| [Hands on Machine Learning](/data/BME_548L_Lab4.ipynb)
-|5 |Sept 21st and 23rd 2020| [Neural Networks in Depth](/tasess/BME_548L_Lab5.ipynb)
-|6 |Sept 28th and 30th 2020| [Convolutional Neural Networks](/data/BME_548L_lab6.ipynb)
-|7 |Oct 5th and 7th 2020| [Established Architectures](/data/BME_548L_lab_7.ipynb)
-|8 |Oct 12th and 14th 2020| [Custom Layers](/data/BME_548L_Lab8.ipynb)
-|9 |Oct 19th and 21st 2020| [Beyond Image Classification](/data/BME_548L_Lab9.ipynb)
+|5 |Sept 21st and 23rd 2020| [Neural Networks in Depth](/tasess/BME_548L_Lab5.ipynb), [Completed Notebook](https://colab.research.google.com/drive/1rn2Ov4bs9NL-xcUXVQloukPZHVImM--w?usp=sharing)
+|6 |Sept 28th and 30th 2020| [Convolutional Neural Networks](/data/BME_548L_lab6.ipynb), [Completed Notebook](https://colab.research.google.com/drive/1cSnY8fhXosGBSCA1tsmmEyDda91vazx8?usp=sharing)
+|7 |Oct 5th and 7th 2020| [Established Architectures](/data/BME_548L_lab_7.ipynb), [Completed Notebook](https://colab.research.google.com/drive/19dOMN_-tS98oT2RQ51-bpF-204wyFO6S?usp=sharing)
+|8 |Oct 12th and 14th 2020| [Custom Layers](/data/BME_548L_Lab8.ipynb), [Completed Notebook](https://colab.research.google.com/drive/1vNC66jq3WueXN8t2jwRl-4Ww25Y1Effk?usp=sharing)
+|9 |Oct 19th and 21st 2020| [Beyond Image Classification](/data/BME_548L_Lab9.ipynb), [Completed Notebook](https://colab.research.google.com/drive/1w1ZHFR6r-zpMc5rOot-9AyN4hv8B6bGy?usp=sharing)
 
 <!--
 | TA Session #                       | Week of         |  Resources             
