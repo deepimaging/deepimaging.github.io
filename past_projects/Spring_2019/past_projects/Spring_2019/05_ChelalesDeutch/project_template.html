@@ -1,0 +1,68 @@
+<!-- The structure for this template is code adapted from https://cs.nyu.edu/~deigen/depth/ -->
+<!-- Please site this website if made public -->
+<HTML>
+<HEAD>
+<title>Automated Image Focus Detecting Algorithm for Low-Cost Handheld Microscope</title>
+<LINK REL="stylesheet" HREF="style.css">
+</HEAD>
+<BODY bgcolor="white">
+<center>
+<h2>Automated Image Focus Detecting Algorithm for Low-Cost Handheld Microscope</h2>
+<h3>Erika Chelales &nbsp;&nbsp;&nbsp;&nbsp;
+    Riley Deutsch &nbsp;&nbsp;&nbsp;&nbsp;
+    Roujia Wang
+</h3>
+<h4>
+erika.chelales<!-- x -->@<!-- -->duke.<!-- h -->edu
+&nbsp;&nbsp;&nbsp;
+riley.deutsch<!-- x -->@<!-- -->duke.<!-- h -->edu
+&nbsp;&nbsp;&nbsp;
+roujia.wang<!-- x -->@<!-- -->duke.<!-- h -->edu
+</h4>
+<p>
+<table border=0 width="25%">
+<tr>
+<!-- Provide link to your paper below -->
+<td align="center"><a href="Automated image focus detecting algorithm.pdf"><font size="+1">Paper PDF</font></a>
+</tr>
+</table>
+
+<!-- Provide link to your "teaser figure - this should summarize your findings at a glace" -->
+<p>
+<img src="Slide1.png" width="60%">
+<p>
+<table width="80%">
+<tr><td align="left">
+<p>
+The goal of this project is to develop an algorithm that can detect whether acquired images are in-focus with the hope that this technology could provide real-time feedback to healthcare workers to ensure the collection of high quality diagnostic images.  Images of osteosarcoma cells acquired at various degrees of focus were used to train this network to discriminate between focused and blurred images. Since acquired images are often very large, one goal of this network was to be able to operate with large images. After optimizing the number of parameters, the activation, and the number of parameters, the network was able to perform a binary classification of in focus and out of focus images with 98% accuracy. Additionally, the network was able to achieve 97.5% accuracy in classifying different levels of defocus. In order to reduce the number of convolutional operations necessary for classification, we explored optimizing the aperture of the imaging system. We found that a larger aperture acting as a high pass filter, with an optimized phase plate could overcome a smaller network and achieve 99% accuracy. 
+<p>
+
+<tr><td align="center">
+<br>
+
+<!-- Provide link to your write-up -->
+<tr><td align="left">
+Paper:
+<ul>
+<li><a href="Automated image focus detecting algorithm.pdf"><font size="+1">Paper PDF</font></a>
+</ul>
+Code Description:
+<li> Raw data is found in any folder starting in BBBC006_v1
+<li> Files 3typecalssificaiton, 4typecalssification, and 5typecalssification contain code and results for classifying the different levels of defocus
+<li> Optimizing activation function can be found in FinalProjectEMCv8
+<li> Optimizing number of parameters can be found in BME590FinalProjectRW
+<li> Optimizing kernel size can be found in FinalProjectRJD
+<li> Physical Layer optimization can be found in Physical_layer_RJD, BME590FinalProjectRWv4, 
+<tr><td align="left">
+Code and Data:
+<ul>
+<li>Link to our GitHub Repository: <a href="https://github.com/rjdeutsch/BME590FinalProject">GitHub Code</a>
+<li>Link to data from the Broad Institute: <a href="https://data.broadinstitute.org/bbbc/BBBC006/">Broad Institute</a>
+</ul>
+
+</table>
+</center>
+
+
+
+</BODY>

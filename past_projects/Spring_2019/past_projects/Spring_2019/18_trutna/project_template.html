@@ -1,0 +1,55 @@
+<!-- The structure for this template is code adapted from https://cs.nyu.edu/~deigen/depth/ -->
+<!-- Please site this website if made public -->
+<HTML>
+<HEAD>
+<title>Machine Learning for Ultrasound Lesion Mapping with Apodization Optimization</title>
+<LINK REL="stylesheet" HREF="style.css">
+</HEAD>
+<BODY bgcolor="white">
+<center>
+<h2>Machine Learning for Ultrasound Lesion Mapping with Apodization Optimization</h2>
+<h3>Courtney Trutna
+</h3>
+<h4>
+courtney.trutna<!-- x -->@<!-- -->duke.<!-- h -->edu
+</h4>
+<p>
+<table border=0 width="25%">
+<tr>
+<!-- Provide link to your paper below -->
+<td align="center"><a href="Trutna_BME590_report.pdf"><font size="+1">Paper PDF</font></a>
+</tr>
+</table>
+
+<!-- Provide link to your "teaser figure - this should summarize your findings at a glace" -->
+<p>
+<img src="figure_1_cat33.png" width="60%">
+<p>
+<table width="80%">
+<tr><td align="left">
+<p>
+Machine learning can be used to reduce the speckle inherent to ultrasound B-mode imaging, thus improving lesion detection. This project used the U-Net machine learning architecture to reconstruct a lesion map from a B-mode image. Additionally, the machine learning architecture was allowed to optimize the apodization applied to the transducer, allowing the algorithm to determine the "ideal" (within the bounds of ultrasound) point spread function for this task. The results demonstrate that the U-Net is able to reconstruct an echogenicity map with reasonable accuracy, reconstructing the location of any lesions accurately (the shape of the lesion is frequently distorted however). The apodization optimization always reconstructed a point spread function approaching that of the traditional full aperture. This suggests that for this task, the traditional imaging parameters for high resolution are most useful for the CNN lesion map reconstruction. While this particular study is limited in it's simulation assumptions, it still demonstrates the potential of machine learning to overcome issues of speckle noise in ultrasound imaging, which has many potential applications.
+
+<p>
+<tr><td align="center">
+<br>
+
+<!-- Provide link to your write-up -->
+<tr><td align="left">
+Paper:
+<ul>
+<li><a href="Trutna_BME590_report.pdf"><font size="+1">Paper PDF</font></a>
+</ul>
+
+<tr><td align="left">
+Code:
+<ul>
+<li><a href="https://github.com/courtneytrutna/ML-Imaging/tree/master/final_project">GitHub</a>
+</ul>
+
+</table>
+</center>
+
+
+
+</BODY>

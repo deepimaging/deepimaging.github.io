@@ -1,0 +1,62 @@
+<!-- The structure for this template is code adapted from https://cs.nyu.edu/~deigen/depth/ -->
+<!-- Please site this website if made public -->
+<HTML>
+<HEAD>
+<title>Going Deeper: Depth Image Classification via simulated SPAD array images</title>
+<LINK REL="stylesheet" HREF="style.css">
+</HEAD>
+<BODY bgcolor="white">
+<center>
+<h2>Going Deeper: Depth Image Classification via simulated SPAD array images</h2>
+<h3>Dhanasekar Sundararaman &nbsp;&nbsp;&nbsp;&nbsp;
+    Jason Liu &nbsp;&nbsp;&nbsp;&nbsp;
+    Abhi Jadhav
+</h3>
+<h4>
+ds448<!-- x -->@<!-- -->duke.<!-- h -->edu
+&nbsp;&nbsp;&nbsp;
+jl532<!-- x -->@<!-- -->duke.<!-- h -->edu
+&nbsp;&nbsp;&nbsp;
+aj246<!-- x -->@<!-- -->duke.<!-- h -->edu
+</h4>
+<p>
+<table border=0 width="25%">
+<tr>
+<!-- Provide link to your paper below -->
+<td align="center"><a href="my_paper.pdf"><font size="+1">Paper PDF</font></a>
+</tr>
+</table>
+
+<!-- Provide link to your "teaser figure - this should summarize your findings at a glace" -->
+<p>
+<img src="figure_1.png" width="60%">
+<p>
+<table width="80%">
+<tr><td align="left">
+<p>
+Single-Photon Avalanche Diodes (SPAD) are affordable photodetectors, capable of collecting fast low-energy events, due to their single photon sensitivity. This makes them very suitable for depth based imaging systems, while maintaining high temporal resolution. In this work, we aim to simulate SPAD-based imaging by using existing RGBD datasets as the ground truth and a modified VGG architecture for classification. We used 5556 images from 21 classes of household objects from the RGB-D Kinect Object Database from the University of Washington CS Department. In the best case scenario, we get great performance in classification of up to 91.26% on the training data and 91.19% on the test data. When implementing non-ideal physical conditions with the introduction of random noise, the training accuracy dropped by 1% while the test accuracy dropped by 4%.
+<p>
+Source Dataset: <a href="https://rgbd-dataset.cs.washington.edu/">Source RGB-D Dataset</a>.
+<tr><td align="center">
+<br>
+
+<!-- Provide link to your write-up -->
+<tr><td align="left">
+Paper:
+<ul>
+<li><a href="my_paper.pdf"><font size="+1">Paper PDF</font></a>
+</ul>
+
+<tr><td align="left">
+Code and Data:
+<ul>
+<li>All code linked in this Git Repo: <a href="https://github.com/a1pha/going_deeper">https://github.com/a1pha/going_deeper</a>
+<li>Depth Imaging data (PNG) downloadable here: <a href="5559-images-590.zip">5559-images-590.zip</a>
+</ul>
+
+</table>
+</center>
+
+
+
+</BODY>

@@ -1,0 +1,59 @@
+<!-- The structure for this template is code adapted from https://cs.nyu.edu/~deigen/depth/ -->
+<!-- Please site this website if made public -->
+<HTML>
+    <HEAD>
+        <title>Sensor Multiplexing and Reconstruction for Color Images</title>
+        <LINK REL="stylesheet" HREF="style.css">
+    </HEAD>
+    <BODY bgcolor="white">
+    <center>
+        <h2>Sensor Multiplexing and Reconstruction for Color Images</h2>
+        <h3>Yuhan Liu &nbsp;&nbsp;&nbsp;&nbsp;
+            Aoxue Miao &nbsp;&nbsp;&nbsp;&nbsp;
+            Liangyu Xu
+        </h3>
+        <h4>
+            yl556<!-- x -->@<!-- -->duke.<!-- h -->edu
+            &nbsp;&nbsp;&nbsp;
+            am<!-- x -->@<!-- -->duke.<!-- h -->edu
+            &nbsp;&nbsp;&nbsp;
+            lx66<!-- x -->@<!-- -->duke.<!-- h -->edu
+        </h4>
+        <p>
+
+        <!-- Provide link to your "teaser figure - this should summarize your findings at a glace" -->
+        <p>
+        <img src="DeMU.png" width="70%">
+        <p>
+        <table width="80%">
+        <tr><td align="left">
+        <p>
+            We designed a demosaicing U-Net (DeMU) that improves the image reconstruction, which contains a demosiacing pattern. 
+            The pattern contains red, green and blue channel, along with an unfiltered channel that is the sum of all three RGB channels.
+            DeMU takes noised images as input, 
+            uses sensor pattern to mimic the behavior of a camera, reconstructs demosiaced images, and compares them to the ground truth.
+        <p>
+
+        <P>
+            Result proves that DeMU learnt a better sensor pattern compared to traditional Bayer pattern and CFZ pattern in specific range of noise variance.       
+        <p>
+        <tr><td align="center">
+        <br>
+
+        <!-- Provide link to your write-up -->
+        <tr><td align="left">
+        Paper:
+        <ul>
+        <li><a href="Paper_Yuhan_Aoxue_Liangyu.pdf"><font size="+1">Paper PDF</font></a>
+        </ul>
+
+        <tr><td align="left">
+        Code and Data:
+        <ul>
+            <li>Link to the code: <a href="https://github.com/Yuhan-Liu-Heidi/Homework-BME590-ML/tree/master/Code">our code</a>
+            <li>Link to dataset: <a href="http://www.cs.sfu.ca/~colour/data/funt_hdr/"> http://www.cs.sfu.ca/~colour/data/funt_hdr/</a>
+        </ul>
+
+        </table>
+    </center>
+    </BODY>

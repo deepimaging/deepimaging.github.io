@@ -1,0 +1,57 @@
+<!-- The structure for this template is code adapted from https://cs.nyu.edu/~deigen/depth/ -->
+<!-- Please site this website if made public -->
+<HTML>
+<HEAD>
+<title>Automatic Segmentation of Aortic Anomaly CT Scans using U-Net</title>
+<LINK REL="stylesheet" HREF="style.css">
+</HEAD>
+<BODY bgcolor="white">
+<center>
+<h2>Automatic Segmentation of Aortic Anomaly CT Scans using U-Net</h2>
+<h3>Ismael Perez &nbsp;&nbsp;&nbsp;&nbsp;
+    Sayan Roychowdhury
+</h3>
+<h4>
+ismael.perez<!-- x -->@<!-- -->duke.<!-- h -->edu
+&nbsp;&nbsp;&nbsp;
+sayan.roychowdhury<!-- x -->@<!-- -->duke.<!-- h -->edu
+</h4>
+<p>
+<table border=0 width="25%">
+<tr>
+<!-- Provide link to your paper below -->
+<td align="center"><a href="my_paper.pdf"><font size="+1">Paper PDF</font></a>
+</tr>
+</table>
+
+<!-- Provide link to your "teaser figure - this should summarize your findings at a glace" -->
+<p>
+<img src="website_fig1.png" width="60%">
+<p>
+<table width="80%">
+<tr><td align="left">
+<p>
+Segmentation of the aorta in CT scans is currently a time-consuming and inefficient task. A researcher has to manually annotate each slice by marking the portion of interest. What makes this even tougher is the addition of input noise, such as motion blur or a lack of contrast found in low-dose CT scans. Here, we implement a U-Net to develop an automatic method of segmenting these aorta CT scans. We train the network using the original, blurred (to simulate motion artifacts), and shot noise (to simulate low contrast) with previously labeled data that our lab has purchased. We show that with the inclusion of input noise, the model still performs very well. The figure above shows the original, blurred, and inclusion of shot noise of a single slice in the first column. The second column contains the manually labeled output, and the third column contains the predictions given by the U-net.
+
+
+
+<!-- Provide link to your write-up -->
+<tr><td align="left">
+Paper:
+<ul>
+<li><a href="main_text.pdf"><font size="+1">Paper PDF</font></a>
+</ul>
+
+<tr><td align="left">
+Code and Data:
+<ul>
+<li>You can provide a link to your code here: <a href="https://github.com/iperezx/ML-Imaging/tree/master/final_project">GitHub link</a>
+<li>If you'd like, you can provide a link to your data here: <a href="my_data.tgz">NULL</a>
+</ul>
+
+</table>
+</center>
+
+
+
+</BODY>

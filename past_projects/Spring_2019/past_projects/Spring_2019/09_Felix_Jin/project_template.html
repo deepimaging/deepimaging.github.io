@@ -1,0 +1,51 @@
+<!-- The structure for this template is code adapted from https://cs.nyu.edu/~deigen/depth/ -->
+<!-- Please site this website if made public -->
+<HTML>
+<HEAD>
+<title>Finding Ultrasound Sub-apertures for Liver Vessel Segmentation </title>
+<LINK REL="stylesheet" HREF="style.css">
+</HEAD>
+<BODY bgcolor="white">
+<center>
+<h2>Finding Ultrasound Sub-apertures for Liver Vessel Segmentation</h2>
+<h3>Felix Jin
+</h3>
+<h4>
+fqj<!-- x -->@<!-- -->duke.<!-- h -->edu
+</h4>
+<p>
+<table border=0 width="25%">
+<tr>
+<!-- Provide link to your paper below -->
+<td align="center"><a href="Felix Jin BME 590 Paper.pdf"><font size="+1">Paper PDF</font></a>
+</tr>
+</table>
+
+<!-- Provide link to your "teaser figure - this should summarize your findings at a glace" -->
+<p>
+<img src="summary2.png" width="60%">
+<p>
+<table width="80%">
+<tr><td align="left">
+<p>
+In ultrasound imaging, multiple receive elements listen for echos. The signals from each channel are summed together to produce the final image. We sought to find configurations of a limited number of elements that could still give good imaging results. Using less elements allows a faster frame rate and less hardware requirements. We jointly trained a deep neural network to both select which receive elements to use and to accurately segment hepatic blood vessels in liver images. We found that the learned configuration for 4 elements only performed better than equal spacing. We also found that results for 2 elements and for two-aperture spatial compounding agree with conventional ultrasound imaging theory.
+<!-- Provide link to your write-up -->
+<tr><td align="left">
+Paper:
+<ul>
+<li><a href="Felix Jin BME 590 Paper.pdf">Paper PDF</font></a>
+</ul>
+
+<tr><td align="left">
+Code and Data:
+<ul>
+<li><a href="https://github.com/fqjin/aperture">Code on Github</a>
+<li>Ultrasound liver data courtesy of Will Long, a Duke PhD student in the lab of Dr. Gregg Trahey</a>
+</ul>
+
+</table>
+</center>
+
+
+
+</BODY>

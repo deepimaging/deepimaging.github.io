@@ -1,0 +1,57 @@
+<!-- The structure for this template is code adapted from https://cs.nyu.edu/~deigen/depth/ -->
+<!-- Please site this website if made public -->
+<HTML>
+<HEAD>
+<title> Exploring Physical Parameters for Incoherent Imaging</title>
+<LINK REL="stylesheet" HREF="style.css">
+</HEAD>
+<BODY bgcolor="white">
+<center>
+<h2>Exploring Physical Parameters for Incoherent Imaging</h2>
+<h3>Connor Davis
+</h3>
+<h4>
+connor.davis<!-- x -->@<!-- -->duke.<!-- h -->edu
+&nbsp;&nbsp;&nbsp;
+</h4>
+<p>
+<table border=0 width="25%">
+<tr>
+<!-- Provide link to your paper below -->
+<td align="center"><a href="Davis Project Paper.pdf"><font size="+1">Paper PDF</font></a>
+</tr>
+</table>
+
+<!-- Provide link to your "teaser figure - this should summarize your findings at a glace" -->
+<p>
+<img src="figure_1.png" width="60%">
+<p>
+<table width="80%">
+<tr><td align="left">
+<p>
+My aim for this project was to look at three relatively simple physical parameters: a blur kernel (blurring filter), illumination matrix (image lighting), and RGB channel weights (another form of image lighting). I wanted to examine how their incorporation into a machine learning framework would affect classification performance of a simple CNN on four different datasets. The datasets used for this analysis were MNIST, Fashion MNIST, CIFAR 10, and HAM10000 (“Skin Cancer MNIST”). The resulting accuracies show that for simple sets of images, such as the MNIST and MNIST Fashion, incorporating the physical parameters does not much affect classification performance. This result is unsurprising given that even simple CNNs will achieve quite high accuracies for these data, so incorporating pre-processing layers is unlikely to have much of an effect. Additionally, these physical layers appear to have only a slight affect on classification of the CIFAR 10 data, if there is any real affect at all. Most interestingly, however, different physical parameters have varying and significant effects on classification of the HAM10000 data. This result may stem from certain aspects of these images, and, given more tests to prove the validity of these outcomes, could reveal aspects of skin lesion images that are critical to their being properly labeled. Read the paper to learn more.
+
+<p>
+<tr><td align="center">
+<br>
+
+<!-- Provide link to your write-up -->
+<tr><td align="left">
+Paper:
+<ul>
+<li><a href="Davis Project Paper.pdf"><font size="+1">Paper PDF</font></a>
+</ul>
+
+<tr><td align="left">
+Code and Data:
+<ul>
+<li>The code can be found here: <a href="https://github.com/cjd67/BME-590L-Machine-Learning/tree/master/Final%20Project">github_repository</a>
+<li>The HAM10000 data can be downloaded here: <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T">download</a>
+</ul>
+
+</table>
+</center>
+
+
+
+</BODY>
