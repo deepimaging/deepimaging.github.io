@@ -26,11 +26,13 @@ permalink: /lectures/
 |[18](https://www.dropbox.com/s/1xtm9cb8ijqqfj2/lecture_18.mp4?dl=0)|15 October 2020|[CNNs, Autoencoders and Segmentation (PDF)](/lectures/lecture_14b_segmentation_autoencoder.pdf)
 |[19](https://www.dropbox.com/s/15xv22ar3o51me1/lecture_16.mp4?dl=0)|20 October 2020|[Introduction to Fourier Optics (PDF)](/lectures/lecture_16_intro_Fourier_optics.pdf)
 |[20](https://www.dropbox.com/s/g7hnd3ygy39b681/lecture_20.mp4?dl=0)|22 October 2020|[Coherent Physical Layers and Layer Guidelines (PDF)](/lectures/lecture_20_coherent_physical_layers_and_guidelines.pdf)
-|[21](https://www.dropbox.com/s/t9uto5hqbfv7sz4/lecture_21.mp4?dl=0)|2 April 2020|[Published Physical CNN Examples and Ethics (PDF)](/lectures/lecture_21_PhysicalCNN_examples.pdf)
+|[21](https://www.dropbox.com/s/t9uto5hqbfv7sz4/lecture_21.mp4?dl=0)|27 October 2020|[Published Physical CNN Examples and Ethics (PDF)](/lectures/lecture_21_PhysicalCNN_examples.pdf)
+|[22](https://www.dropbox.com/s/6gblb7aq3kaqnar/lecture_22.mp4?dl=0)|29 October 2020|[Recurrent Neural Networks (PDF)](/lectures/lecture_22_RNNs.pdf)
+
 
 <!--
 |[18](https://www.dropbox.com/s/5rc6wmbjosok0jy/lecture_18.mp4?dl=0)|31 March 2020|[Physical Layer Guidelines and Implementations (PDF)](/lectures/lecture_18_physical_layer_guidelines.pdf)
-|[20](https://www.dropbox.com/s/srvkozj1o1huoh1/lecture_20.mp4?dl=0)|7 April 2020|[Recurrent Neural Networks (PDF)](/lectures/lecture_20_RNNs.pdf)
+)
 |[21](https://www.dropbox.com/s/nwjiu3j9hr1pixn/lecture_21.mp4?dl=0)|9 April 2020|[Reinforcement Learning (PDF)](/lectures/lecture_21_reinforcement_learning.pdf)
 |[22](https://www.dropbox.com/s/x1at4xn98z791kg/lecture_22.mp4?dl=0)|14 April 2020|[Looking ahead – machine learning and imaging in 10 years (PDF)](/lectures/lecture_22_future_directions.pdf)
 |[23](https://www.dropbox.com/s/7mpto1io200fjda/lecture_23.mp4?dl=0)|16 April 2020|[Machine Learning + Imaging Review (PDF)](/lectures/lecture_23_deep_imaging_review.pdf)
