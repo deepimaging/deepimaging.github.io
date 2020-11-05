@@ -28,6 +28,7 @@ permalink: /lectures/
 |[20](https://www.dropbox.com/s/g7hnd3ygy39b681/lecture_20.mp4?dl=0)|22 October 2020|[Coherent Physical Layers and Layer Guidelines (PDF)](/lectures/lecture_20_coherent_physical_layers_and_guidelines.pdf)
 |[21](https://www.dropbox.com/s/t9uto5hqbfv7sz4/lecture_21.mp4?dl=0)|27 October 2020|[Published Physical CNN Examples and Ethics (PDF)](/lectures/lecture_21_PhysicalCNN_examples.pdf)
 |[22](https://www.dropbox.com/s/6gblb7aq3kaqnar/lecture_22.mp4?dl=0)|29 October 2020|[Recurrent Neural Networks (PDF)](/lectures/lecture_22_RNNs.pdf)
+|[23](https://www.dropbox.com/s/tuiy9bj8s30a5k5/lecture_23.mp4?dl=0)|5 November 2020|[Generative Models (PDF)](/lectures/lecture_23_generative_adversarial.pdf)
 
 
 <!--
