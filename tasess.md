@@ -19,6 +19,7 @@ TA session Python notebooks and other information will be uploaded here.
 |9 |Oct 19th and 21st 2020| [Beyond Image Classification](/data/BME_548L_Lab9.ipynb), [Completed Notebook](https://colab.research.google.com/drive/1w1ZHFR6r-zpMc5rOot-9AyN4hv8B6bGy?usp=sharing)
 |10| Oct 26th and 28th 2020| [Unsupervised Learning](/data/BME_548L_Lab10.ipynb), [Completed Notebook](https://colab.research.google.com/drive/1qKaGg-rHVSuYy7np_B1Ii7-GLL3he_ry?usp=sharing)
 |11| Nov 2nd and 4th 2020| [Physical Layers](/data/BME_548L_Lab11.ipynb)
+|12| Nov 9th and 11th 2020| [Eager Mode + Probability](/data/BME_548L_Lab12.ipynb)
 
 
 <!--
