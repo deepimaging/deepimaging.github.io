@@ -30,7 +30,7 @@ permalink: /lectures/
 |[22](https://www.dropbox.com/s/6gblb7aq3kaqnar/lecture_22.mp4?dl=0)|29 October 2020|[Recurrent Neural Networks (PDF)](/lectures/lecture_22_RNNs.pdf)
 |[23](https://www.dropbox.com/s/tuiy9bj8s30a5k5/lecture_23.mp4?dl=0)|5 November 2020|[Generative Models (PDF)](/lectures/lecture_23_generative_adversarial.pdf)
 |[24](https://www.dropbox.com/s/gystg2vjp4n6ljl/lecture_24.mp4?dl=0)|10 November 2020|[Reinforcement Learning (PDF)](/lectures/lecture_24_reinforcement_learning.pdf)
-|[25](https://www.dropbox.com/s/7mpto1io200fjda/lecture_23.mp4?dl=0)|12 November 2020|[Machine Learning + Imaging Review (PDF)](/lectures/lecture_25_future_directions_new.pdf)
+|[25](https://www.dropbox.com/s/xhjuh1ushxmv8uu/lecture_25.mp4?dl=0)|12 November 2020|[Machine Learning + Imaging Review (PDF)](/lectures/lecture_25_future_directions_new.pdf)
 
 <!--
 |[18](https://www.dropbox.com/s/5rc6wmbjosok0jy/lecture_18.mp4?dl=0)|31 March 2020|[Physical Layer Guidelines and Implementations (PDF)](/lectures/lecture_18_physical_layer_guidelines.pdf)
