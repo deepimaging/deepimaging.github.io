@@ -30,13 +30,13 @@ permalink: /lectures/
 |[22](https://www.dropbox.com/s/6gblb7aq3kaqnar/lecture_22.mp4?dl=0)|29 October 2020|[Recurrent Neural Networks (PDF)](/lectures/lecture_22_RNNs.pdf)
 |[23](https://www.dropbox.com/s/tuiy9bj8s30a5k5/lecture_23.mp4?dl=0)|5 November 2020|[Generative Models (PDF)](/lectures/lecture_23_generative_adversarial.pdf)
 |[24](https://www.dropbox.com/s/gystg2vjp4n6ljl/lecture_24.mp4?dl=0)|10 November 2020|[Reinforcement Learning (PDF)](/lectures/lecture_24_reinforcement_learning.pdf)
-
+|[25](https://www.dropbox.com/s/7mpto1io200fjda/lecture_23.mp4?dl=0)|12 November 2020|[Machine Learning + Imaging Review (PDF)](/lectures/lecture_25_future_directions_new.pdf)
 
 <!--
 |[18](https://www.dropbox.com/s/5rc6wmbjosok0jy/lecture_18.mp4?dl=0)|31 March 2020|[Physical Layer Guidelines and Implementations (PDF)](/lectures/lecture_18_physical_layer_guidelines.pdf)
 )
 |[22](https://www.dropbox.com/s/x1at4xn98z791kg/lecture_22.mp4?dl=0)|14 April 2020|[Looking ahead – machine learning and imaging in 10 years (PDF)](/lectures/lecture_22_future_directions.pdf)
-|[23](https://www.dropbox.com/s/7mpto1io200fjda/lecture_23.mp4?dl=0)|16 April 2020|[Machine Learning + Imaging Review (PDF)](/lectures/lecture_23_deep_imaging_review.pdf)
+)
 -->
 
 
@@ -52,4 +52,5 @@ Here are a few links to useful additional material for reading and viewing:
 3. [Jupyter Notebook: A simple Autoencoder in Tensorflow/Keras](/data/Simple_Autoencoder.ipynb)
 4. [Jupyter Notebook: Weighted image sum example](/data/weighted_image_sum_example.ipynb) - [Associated cube1.mat datafile](/data/cube1.mat)
 5. [Jupyter Notebook: Physical layers example](/data/physical_layers_example.ipynb)
+6. [Jupyter Notebook: GAN example](https://colab.research.google.com/github/tensorflow/gan/blob/master/tensorflow_gan/examples/colab_notebooks/tfgan_tutorial.ipynb)
 
