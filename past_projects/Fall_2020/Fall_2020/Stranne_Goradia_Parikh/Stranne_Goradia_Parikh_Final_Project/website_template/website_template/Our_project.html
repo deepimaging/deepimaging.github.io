@@ -1,0 +1,61 @@
+
+<!-- saved from url=(0088)file:///C:/Users/jason/Downloads/website_template/website_template/project_template.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>COVID-19 Segmentation within Low-Radiation CT Scans</title>
+<link rel="stylesheet" href="./Our_project_files/style.css">
+</head>
+<body bgcolor="white">
+<center>
+<h2>Implementing Deep Learning for COVID-19 Segmentation within Low-Radiation CT Scans</h2>
+<h3>Aayush Goradia &nbsp;&nbsp;&nbsp;&nbsp;
+    Nathan Parikh &nbsp;&nbsp;&nbsp;&nbsp;
+    Jason Stranne
+</h3>
+<h4>
+aayush.goradia<!-- x -->@<!-- -->duke.<!-- h -->edu
+&nbsp;&nbsp;&nbsp;
+nathan.parikh<!-- x -->@<!-- -->duke.<!-- h -->edu
+&nbsp;&nbsp;&nbsp;
+jason.stranne<!-- x -->@<!-- -->duke.<!-- h -->edu
+</h4>
+<p>
+<table border="0" width="25%">
+<tbody><tr>
+<!-- Provide link to your paper below -->
+<td align="center"><a href="https://github.com/jstranne/BME_548_Final/blob/main/Paper/Goradia_Parikh_Stranne_548_Final_Paper.pdf"><font size="+1">Paper PDF</font></a>
+</td></tr>
+</tbody></table>
+
+<!-- Provide link to your "teaser figure - this should summarize your findings at a glace" -->
+</p><p>
+<img src="./Our_project_files/image1.png" width="25%">
+</p><p>
+<table width="80%">
+<tbody><tr><td align="left">
+<p>
+In the ongoing COVID-19 pandemic, computer tomography (CT) scans are being utilized to confirm COVID-19 diagnoses for patients who have already tested positive and to localize the infection within the lungs. However, given that CT can expose patients to potentially dangerous levels of ionizing radiation, this project aims to implement deep learning on a physical layer such that the optimized physical layer yields accurate COVID-19 segmentation results for CT scanners with lower radiation. Decreased radiation was modeled through sub-sampling the original images in the Fourier space, and the Fourier transform served as a proxy for the radon transform in CT image reconstruction. Two optimization techniques, annealing and one-hot relaxed categorical distribution, proved effective in improving segmentation precision, intersection-over-union, and recall scores when compared to naive sub-sampling techniques. As expected, image segmentation on these sub-sampled images performed slightly worse when compared to the original images, but there were promising trends in annealing precision scores and overall IOU patterns. Future work should expand on these preliminary findings to investigate the effectiveness of these optimization techniques on the radon transform. 
+
+</p></td></tr><tr><td align="center">
+<br>
+
+<!-- Provide link to your write-up -->
+</td></tr><tr><td align="left">
+Paper:
+<ul>
+<li><a href="https://github.com/jstranne/BME_548_Final/blob/main/Paper/Goradia_Parikh_Stranne_548_Final_Paper.pdf"><font size="+1">Paper PDF</font></a>
+</li></ul>
+
+</td></tr><tr><td align="left">
+Code and Data:
+<ul>
+<li>Link to Github repository containing code: <a href="https://github.com/jstranne/BME_548_Final/tree/main/Code">Code Link</a>
+</li><li>Link to data on Kaagle: <a href="https://www.kaggle.com/andrewmvd/covid19-ct-scans">Data Link</a>
+</li></ul>
+
+</td></tr></tbody></table>
+</p></center>
+
+
+
+
+</body></html>

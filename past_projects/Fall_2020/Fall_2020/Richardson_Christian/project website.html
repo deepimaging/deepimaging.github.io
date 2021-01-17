@@ -1,0 +1,50 @@
+<!-- The structure for this template is code adapted from https://cs.nyu.edu/~deigen/depth/ -->
+<!-- Please site this website if made public -->
+<HTML>
+<HEAD>
+<title>MyProject: Zebrafish Scale Detection and Illumination Optimization with Retina Net</title>
+<LINK REL="stylesheet" HREF="style.css">
+</HEAD>
+<BODY bgcolor="white">
+<center>
+<h2>MyProject: Zebrafish Scale Detection and Illumination Optimization with Retina Net</h2>
+<h3>Christian Richardson
+</h3>
+<h4>
+cr304<!-- x -->@<!-- -->duke.<!-- h -->edu
+</h4>
+
+
+<!-- Provide link to your "teaser figure - this should summarize your findings at a glace" -->
+<p>
+<img src="https://i.ibb.co/zZChRb0/zebrafish-scale-image4.png" width="60%">
+<p>
+<table width="80%">
+<tr><td align="left">
+<p>
+    Zebrafish scale segmentation is a problem that has yet to be solved by known image processing approaches. Zebrafish scales are relatively thick three-dimensional structures that must be imaged in 2D slices which are compiled into 3-dimensional tiff stacks. Segmenting images of these scales is difficult due to the low contrast of the images in areas with poor illumination, and the close proximity that scales share, which generally leads to multiple scales being merged into a single connected component when image segmentation is used. I propose an object detection-based solution, where the object detection model Retina Net is used to regress bounding boxes around individual scales. Retina Net is modified to include a multiply layer that element-wise multiples the sample intensity map, or the image of a scale, with a learned illumination map. Unfortunately, I was not able to implement a functional Retina Net model that includes a custom illumination layer. Instead, the classic Retina Net model was used to perform object detection on Zebrafish scale images.
+<p>
+Retina Net Implementations Used: <a href="https://github.com/fizyr/keras-retinanet">https://github.com/fizyr/keras-retinanet</a>.
+<a href="https://keras.io/examples/vision/retinanet/"> https://keras.io/examples/vision/retinanet/</a>.
+<tr><td align="center">
+<br>
+
+<!-- Provide link to your write-up -->
+<tr><td align="left">
+Paper:
+<ul>
+<li><a href="https://docdro.id/80k5Mcb"><font size="+1">Paper PDF</font></a>
+</ul>
+
+<tr><td align="left">
+Code and Data:
+<ul>
+<li>Code Used: <a href="https://github.com/fizyr/keras-retinanet">https://github.com/fizyr/keras-retinanet</a>. <a href="https://keras.io/examples/vision/retinanet/"> https://keras.io/examples/vision/retinanet/</a>.
+</ul>
+
+</table>
+</center>
+
+
+
+</BODY>

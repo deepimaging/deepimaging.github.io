@@ -1,0 +1,63 @@
+<!-- The structure for this template is code adapted from https://cs.nyu.edu/~deigen/depth/ -->
+<!-- Please site this website if made public -->
+<HTML>
+<HEAD>
+<title>MyProject: Deep Neural Networks with Physical Layers</title>
+<LINK REL="stylesheet" HREF="style.css">
+</HEAD>
+<BODY bgcolor="white">
+<center>
+<h2>MyProject: Deep Neural Networks with Physical Layers</h2>
+<h3>Roarke Horstmeyer &nbsp;&nbsp;&nbsp;&nbsp;
+    Ouwen Huang &nbsp;&nbsp;&nbsp;&nbsp;
+    Kevin Zhou
+</h3>
+<h4>
+rwh4<!-- x -->@<!-- -->duke.<!-- h -->edu
+&nbsp;&nbsp;&nbsp;
+ouwen.huang<!-- x -->@<!-- -->duke.<!-- h -->edu
+&nbsp;&nbsp;&nbsp;
+kevin.zhou<!-- x -->@<!-- -->duke.<!-- h -->edu
+</h4>
+<p>
+<table border=0 width="25%">
+<tr>
+<!-- Provide link to your paper below -->
+<td align="center"><a href="my_paper.pdf"><font size="+1">Paper PDF</font></a>
+</tr>
+</table>
+
+<!-- Provide link to your "teaser figure - this should summarize your findings at a glace" -->
+<p>
+<img src="figure_1.png" width="60%">
+<p>
+<table width="80%">
+<tr><td align="left">
+<p>
+Please write a short description of your work here. It should be 5-7 sentences. This can be like an abstract, but with a little less technical detail and with a little more excitement. A good way to structure this paragraph is to first write a motivational sentence (why is what you did important), and then to state in simple words what you attempted to do, and then to describe the results and findings that you obtained as a result of your investigation.
+
+<p>
+Please feel free to add any additional links that are relevant <a href="http://www.google.com">here</a>.
+<tr><td align="center">
+<br>
+
+<!-- Provide link to your write-up -->
+<tr><td align="left">
+Paper:
+<ul>
+<li><a href="my_paper.pdf"><font size="+1">Paper PDF</font></a>
+</ul>
+
+<tr><td align="left">
+Code and Data:
+<ul>
+<li>You can provide a link to your code here: <a href="my_code.tgz">download tgz</a>
+<li>If you'd like, you can provide a link to your data here: <a href="my_data.tgz">download tgz</a>
+</ul>
+
+</table>
+</center>
+
+
+
+</BODY>

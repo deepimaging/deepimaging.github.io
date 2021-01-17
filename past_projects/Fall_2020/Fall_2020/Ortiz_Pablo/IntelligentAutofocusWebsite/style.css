@@ -1,0 +1,13 @@
+
+body, td, p, div {
+	font-family: "Helvetica";
+	font-size: 16;
+	line-height: 1.25;
+}
+
+div.listelem {
+	font-family: "Helvetica";
+	line-height: 1.25;
+	padding-top: 2em;
+}
+

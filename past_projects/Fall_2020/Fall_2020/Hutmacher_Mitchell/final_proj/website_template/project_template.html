@@ -1,0 +1,75 @@
+<!-- The structure for this template is code adapted from https://cs.nyu.edu/~deigen/depth/ -->
+<!-- Please site this website if made public -->
+<HTML>
+<HEAD>
+<title>Designing a Physical X-Ray Filter for Optimal Classification of COVID-19 Pneumonia using Convolutional Neural Networks</title>
+<LINK REL="stylesheet" HREF="style.css">
+</HEAD>
+<BODY bgcolor="white">
+<center>
+<h2>Designing a Physical X-Ray Filter for Optimal Classification of COVID-19 Pneumonia using Convolutional Neural Networks</h2>
+<h3>Mitchell Hutmacher
+</h3>
+<h4>
+mitchell.hutmacher<!-- x -->@<!-- -->duke.<!-- h -->edu
+</h4>
+<p>
+<table border=0 width="25%">
+<tr>
+<!-- Provide link to your paper below -->
+<td align="center"><a href="../final_project.pdf"><font size="+1">Paper PDF</font></a>
+</tr>
+</table>
+
+<!-- Provide link to your "teaser figure - this should summarize your findings at a glace" -->
+<p>
+<img src="website_image.png" width="60%">
+<p>
+<table width="80%">
+<tr><td align="left">
+<p>
+This project was meant to use the InceptionV3 neural network to use a trainable
+physical layer to optimize classification of chest X-rays of COVID-19 patients
+between healthy lungs and those that have pneumonia induced by COVID-19.  The
+weights of the physical layer will be restricted from 0 to 1, as representations
+of the portion of X-rays that are allowed through after the layer is implemented.
+In the fully trained model, the input for the model will be the element-wise
+multiplication between the trained mask and the original image, which will then
+be passed to a trained InceptionV3 neural network, which will then classify the
+image as either a healthy patient or as a patient who has COVID-19.  After my
+training was complete, my network was able to classify images at an accuracy
+greater than 99%, with sensitivities and specificities greater than 99% as well.
+  This is a substantial improvement over the standard sensitivity of rapid COVID
+tests used today, which generally have sensitivities around 60-70%.
+
+<p>
+The data that I used to train my model can be found <a href="https://www.kaggle.com/prashant268/chest-xray-covid19-pneumonia
+">here</a>
+and <a href="https://www.kaggle.com/zainaali/covid2019-dataset-with-chest-xray-images
+">here</a>.
+<tr><td align="center">
+<br>
+
+<!-- Provide link to your write-up -->
+<tr><td align="left">
+Paper:
+<ul>
+<li><a href="../final_project.pdf"><font size="+1">Paper PDF</font></a>
+</ul>
+
+<tr><td align="left">
+Code and Data:
+<ul>
+<li>My code can be accessed <a href="https://bit.ly/35WgMsV">here</a>
+<li> Paper from which I got the image to make my teaser image for this website:
+  <a href="https://iopscience.iop.org/article/10.1088/0031-9155/42/1/001/meta?casa_token=xe25a6yOPcIAAAAA:qa7zQbdj9NYA8hTeapR7hj0RielY0PgkBqBlVnVLv68lBzxyBZfrk2dGd5Uww3jl3YJTlUSaog
+  ">here</a>.
+<li> Yaffe, M. J., & Rowlands, J. A. (1997). X-ray detectors for digital radiography. Physics in Medicine & Biology, 42(1), 1.
+</ul>
+
+</table>
+</center>
+
+
+
+</BODY>

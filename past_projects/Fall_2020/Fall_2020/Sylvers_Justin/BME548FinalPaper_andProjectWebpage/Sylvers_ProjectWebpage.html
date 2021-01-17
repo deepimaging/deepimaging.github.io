@@ -1,0 +1,60 @@
+<!-- The structure for this template is code adapted from https://cs.nyu.edu/~deigen/depth/ -->
+<!-- Please site this website if made public -->
+<HTML>
+<HEAD>
+<title>Training a GAN to generate high quality synthetic data to train a Multi-Image Super-resolution network</title>
+<LINK REL="stylesheet" HREF="style.css">
+</HEAD>
+<BODY bgcolor="white">
+<center>
+<h2>Training a GAN to generate high quality synthetic data to train a Multi-Image Super-resolution network</h2>
+<h3>Justin Sylvers &nbsp;&nbsp;&nbsp;&nbsp;
+
+</h3>
+<h4>
+jes139<!-- x -->@<!-- -->duke.<!-- h -->edu
+&nbsp;&nbsp;&nbsp;
+</h4>
+<p>
+<table border=0 width="25%">
+<tr>
+<!-- Provide link to your paper below -->
+<td align="center"><a href="Training_a_GAN_to_generate_high_quality_synthetic_data_to_train_a_Multi_Image_Super_resolution_network.pdf"><font size="+1">Paper PDF</font></a>
+</tr>
+</table>
+
+<!-- Provide link to your "teaser figure - this should summarize your findings at a glace" -->
+<p>
+<img src="BME548_visual_abstract.png" width="60%">
+<p>
+<table width="80%">
+<tr><td align="left">
+<p>
+One issue confounding the application of machine learning to multi-image super-resolution is a lack of good quality training data. It is standard practice to generate synthetic data by treating in hand images as the high-resolution target, then perform some downsampling operation on these images to generate low-resolution inputs for training the super-resolution network, however, it has been seen that models trained on images degraded in this way do not generalize well to real world low resolution images. Instead, in this work, a generative adversarial network (GAN) is trained to make realistic low resolution images from a single high resolution input. Images generated this way were then used to train a super resolution networkhift. The network is compared to one trained on blurred, shifted, and downsampled versions of the ground truth high-resolution images, representing the standard synthetic data generation technique. The GAN trained network was not found to perform better in terms of MSE on unseen images when the training data was pre-generated. However, when LR images were generated on the fly during super-resolution network training, promising qualitative results were observed.
+<p>Literature references:
+<p>[1] Bulat, A., Yang, J., & Tzimiropoulos, G., “To learn image super-resolution, use a GAN to learn how to do image degradation first,” Lecture Notes in Computer Science, 11210 LNCS, 187–202. 2018. <a href="https://doi.org/10.1007/978-3-030-01231-1_12">url</a>.
+
+<p>[2] Deudon, M., Kalaitzis, A., Goytom, I., Arefin, R., Lin, Z., & Sankaran, K. “HighRes-net: Recursive Fusion for Multi-Frame Super-Resolution of Satellite Imagery.” 2019. <a href="https://openreview.net/forum?id=HJxJ2h4tPr">url</a>.
+<tr><td align="center">
+<br>
+
+<!-- Provide link to your write-up -->
+<tr><td align="left">
+Paper:
+<ul>
+<li><a href="Training_a_GAN_to_generate_high_quality_synthetic_data_to_train_a_Multi_Image_Super_resolution_network.pdf"><font size="+1">Paper PDF</font></a>
+</ul>
+
+<tr><td align="left">
+Code and Data:
+<ul>
+<li><a href="https://drive.google.com/file/d/113WS__EocsxYSeMA-V2i2HkYyVmcfhuM/view?usp=sharing">Code link</a>
+<li><a href="https://kelvins.esa.int/proba-v-super-resolution/">Proba-V dataset</a>
+</ul>
+
+</table>
+</center>
+
+
+
+</BODY>

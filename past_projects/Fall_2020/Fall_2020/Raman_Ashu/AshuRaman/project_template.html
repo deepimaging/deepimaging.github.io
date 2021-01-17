@@ -1,0 +1,60 @@
+<!-- The structure for this template is code adapted from https://cs.nyu.edu/~deigen/depth/ -->
+<!-- Please site this website if made public -->
+<HTML>
+<HEAD>
+<title>Optimized Sub-Sampling for Fast MRI Segmentation Using U-Net Architecture</title>
+<LINK REL="stylesheet" HREF="style.css">
+</HEAD>
+<BODY bgcolor="white">
+<center>
+<h2>Optimized Sub-Sampling for Fast MRI Segmentation Using U-Net Architecture</h2>
+<h3>Ashu Raman &nbsp;&nbsp;&nbsp;&nbsp;
+    Vani Yadav &nbsp;&nbsp;&nbsp;&nbsp;
+</h3>
+<h4>
+apr17<!-- x -->@<!-- -->duke.<!-- h -->edu
+&nbsp;&nbsp;&nbsp;
+vani.yadav<!-- x -->@<!-- -->duke.<!-- h -->edu
+</h4>
+<p>
+<table border=0 width="25%">
+<tr>
+<!-- Provide link to your paper below -->
+<td align="center"><a href="548Paper_Raman_Yadav.pdf"><font size="+1">Paper PDF</font></a>
+</tr>
+</table>
+
+<!-- Provide link to your "teaser figure - this should summarize your findings at a glace" -->
+<p>
+<img src="AshuPresent - Page 1-NoHeader.png" width="60%">
+<p>
+<table width="80%">
+<tr><td align="left">
+<p>
+Magnetic resonance continues to be one of the strongest forms of imaging in diagnosis of disease processes. However, MR scans can be quite expensive and take a long time to acquire properly, serving as a drawback for patients. Thus, there is a need for a more effective way of sub-sampling frequency data so that scan times can be reduced without compromising the ability to still properly segment the features. Convolutional neural networks serve as a potential avenue for this sampling optimization, as they can be trained to  choose the most important columns of frequency data, which reduces average scan time. This paper implements a U-Net to develop an automatic way of segmenting brain images for tumors, while also optimizing sub-sampling of the frequency domain so that only those frequencies that are important to recreating accurate segmentation masks are chosen. The U-Net is progressively made to choose fewer and fewer columns of k-space in order to segment tumors from brain images. In this study, we found that the CNN prefers to sample areas around DC, as well as some higher frequencies, in order to segment properly. We also found that segmentation ability appears to be good until around ¼ of the frequency data is taken, whereupon mask quality deteriorates quickly.
+
+<p>
+
+<tr><td align="center">
+<br>
+
+<!-- Provide link to your write-up -->
+<tr><td align="left">
+Paper:
+<ul>
+<li><a href="548Paper_Raman_Yadav.pdf"><font size="+1">Paper PDF</font></a>
+</ul>
+
+<tr><td align="left">
+Code and Data:
+<ul>
+<li>Here is the link to our code: <a href="https://github.com/ashutoshraman/Optimized_MR_Subsampling_Segmentation">Code Repository</a>
+<li>Here is the link to the dataset we used:  <a href="http://medicaldecathlon.com/">Original dataset</a>
+</ul>
+
+</table>
+</center>
+
+
+
+</BODY>
