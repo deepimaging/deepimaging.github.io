@@ -1,0 +1,61 @@
+<!-- The structure for this template is code adapted from https://cs.nyu.edu/~deigen/depth/ -->
+<!-- Please site this website if made public -->
+<HTML>
+<HEAD>
+<title>Classification of Lung Nodules from Low Radiation CT Scanned Images</title>
+<LINK REL="stylesheet" HREF="style.css">
+</HEAD>
+<BODY bgcolor="white">
+<center>
+<h2>Classification of Lung Nodules from Low Radiation CT Scanned Images</h2>
+<h3>Hansori Chang &nbsp;&nbsp;&nbsp;&nbsp;
+    Shuming Cui &nbsp;&nbsp;&nbsp;&nbsp;
+    Yuhao Xue
+</h3>
+<h4>
+hc270<!-- x -->@<!-- -->duke.<!-- h -->edu
+&nbsp;&nbsp;&nbsp;
+sc653<!-- x -->@<!-- -->duke.<!-- h -->edu
+&nbsp;&nbsp;&nbsp;
+yx161<!-- x -->@<!-- -->duke.<!-- h -->edu
+</h4>
+<p>
+<table border=0 width="25%">
+<tr>
+<!-- Provide link to your paper below -->
+<td align="center"><a href="https://github.com/hc270/Machine-Learning-and-Imagaing-Final-Project/blob/main/Report/Final%20report.pdf"><font size="+1">Paper PDF</font></a>
+</tr>
+</table>
+
+<!-- Provide link to your "teaser figure - this should summarize your findings at a glace" -->
+<p>
+<img src="figure_1.png" width="60%">
+<p>
+<table width="80%">
+<tr><td align="left">
+<p>
+In the United Staes, Lung cancer is the second most common cancer and the leading cause of cancer death. While at the distant stage, the survival rate is only 6%, it increases up  to 61% at the localizd stage which is ten times higher. Therfore, the early detection is a cornerstone for a patient's survival. Moreover, CT uses X-rays that are ionizing radiation. It is required to reduce radiation dose to decrease risk of CT. If a radiation dose is reduced, the quality of ct scan image will be lowered. In the project, we present a computer-aided detecting system that classifies lung nodules from CT scanned images with Poisson noise to simulate low radiation dose CT scan. The data used for the project is LIDC/IDRI dataset (screened by LUNA16 challenge). The CT scanned image is randomly cropped using selective search. Since there were too many images without a lung nodule, to balance the number, positive case images are manually cropped. They are resized into 64x64 to put into R-CNN with Alexnet. The network is first trained with the images from the dataset for the binary classification. For both normal images and Poisson noise images, high accuracies of classification are obtained. After that, the physical layer is added to apply Poisson noises to the images to test the model with low-quality images. For the localization, faster R-CNN with ResNet 50 is used for the model. 
+
+<br>
+<br>
+
+<!-- Provide link to your write-up -->
+<tr><td align="left">
+Paper:
+<ul>
+<li><a href="https://github.com/hc270/Machine-Learning-and-Imagaing-Final-Project/blob/main/Report/Final%20report.pdf"><font size="+1">Paper PDF</font></a>
+</ul>
+
+<tr><td align="left">
+Code and Data:
+<ul>
+<li>Complete codes and documents: <a href="https://github.com/hc270/Machine-Learning-and-Imagaing-Final-Project">Github Repository</a>
+<li>Original dataset: <a href="https://luna16.grand-challenge.org/Data/">Luna 16</a>
+</ul>
+
+</table>
+</center>
+
+
+
+</BODY>
