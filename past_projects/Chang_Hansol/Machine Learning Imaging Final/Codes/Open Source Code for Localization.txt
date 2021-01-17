@@ -1,2 +1,0 @@
-Open Source Code for Localization
-https://github.com/bubbliiiing/faster-rcnn-pytorch
