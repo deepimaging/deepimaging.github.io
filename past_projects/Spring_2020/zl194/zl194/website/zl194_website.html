@@ -1,0 +1,61 @@
+<!-- The structure for this template is code adapted from https://cs.nyu.edu/~deigen/depth/ -->
+<!-- Please site this website if made public -->
+<HTML>
+<HEAD>
+<title>Chest X-Ray Image Classification and Deconvolution</title>
+<LINK REL="stylesheet" HREF="style.css">
+</HEAD>
+<BODY bgcolor="white">
+<center>
+<h2>Chest X-Ray Image Classification and Deconvolution</h2>
+<h3>Zeyu Liu &nbsp;&nbsp;&nbsp;&nbsp;
+</h3>
+<h4>
+zl194<!-- x -->@<!-- -->duke.<!-- h -->edu
+&nbsp;&nbsp;&nbsp;
+</h4>
+<p>
+<table border=0 width="25%">
+<tr>
+<!-- Provide link to your paper below -->
+<td align="center"><a href="final_report_zl194.pdf"><font size="+1">Paper PDF</font></a>
+</tr>
+</table>
+
+<!-- Provide link to your "teaser figure - this should summarize your findings at a glace" -->
+<p>
+<img src="Pipeline.png" width="60%">
+<p>
+<p>
+<img src="result.png" width="60%">
+<p>
+<table width="80%">
+<tr><td align="left">
+<p>
+Nowadays, the diagnosis of pneumonia is a stressful task all over the world. According to WHO, pneumonia kills about 2 million children every year and is thought as the leading cause of childhood mortality. To better protect our next generation, we may want our X-Ray images to be classified automatically to accelerate pneumonia detection and alleviate doctors' pressure. However, the X-Ray images are often affected by the focal spot blur effect caused by physical systems and that makes manual classification much harder. This project discusses the impact of focal spot blur effect on pneumonia detection by using X-Ray images and attempts to retrieve clear images. We simulate this blurring effect by convolving clear images with a gaussian kernel and thus, generate a smeared set for comparison. Then, VGG-16 models are trained on both sets separately. The result shows that the classification network can achieve similar test accuracy on both sets. In addition, a U-Net model is built to recover blurred images. These reconstructed images demonstrate the effectiveness of neural networks.
+
+<p>
+
+<tr><td align="center">
+<br>
+
+<!-- Provide link to your write-up -->
+<tr><td align="left">
+Paper:
+<ul>
+<li><a href="final_report_zl194.pdf"><font size="+1">Paper PDF</font></a>
+</ul>
+
+<tr><td align="left">
+Code and Data:
+<ul>
+<li>You can provide a link to your code here: <a href="https://github.com/inazeze/ml_in_imaging_project">Github Link</a>
+<li>If you'd like, you can provide a link to your data here: <a href="https://data.mendeley.com/datasets/rscbjbr9sj/3">Mendeley Data</a>
+</ul>
+
+</table>
+</center>
+
+
+
+</BODY>

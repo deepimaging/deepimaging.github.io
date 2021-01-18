@@ -1,0 +1,62 @@
+<!-- The structure for this template is code adapted from https://cs.nyu.edu/~deigen/depth/ -->
+<!-- Please site this website if made public -->
+<HTML>
+<HEAD>
+<title>CNN-Guided Sub-Sampling and Reconstruction of Clinical Brain MR Data</title>
+<LINK REL="stylesheet" HREF="style.css">
+</HEAD>
+<BODY bgcolor="white">
+<center>
+<h2>CNN-Guided Sub-Sampling and Reconstruction of Clinical Brain MR Data</h2>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp; Daniela de Albuquerque &nbsp;&nbsp;&nbsp;&nbsp;
+    <!--Ouwen Huang &nbsp;&nbsp;&nbsp;&nbsp;-->
+    <!--Kevin Zhou-->
+</h3>
+<h4>
+&nbsp;&nbsp;&nbsp;dfd4<!-- x -->@<!-- -->duke.<!-- h -->edu
+&nbsp;&nbsp;&nbsp;
+</h4>
+<p>
+<table border=0 width="25%">
+<tr>
+<!-- Provide link to your paper below -->
+<td align="center"><a href="BME590L_finalpaper.pdf"><font size="+1">Paper PDF</font></a>
+</tr>
+</table>
+
+<!-- Provide link to your "teaser figure - this should summarize your findings at a glace" -->
+<p>
+<img src="sum_fig.png" width="60%">
+<p>
+<table width="80%">
+<tr><td align="left">
+<p>
+Magnetic Resonance (MR) is one of the most used imaging modalities in medicine due to its high soft-tissue contrast and lack of exposure to ionizing radiation. Yet, it suffers from long acquisition times which often lead to increased costs, reduced patient comfort and increased suceptibility to motion artifacts. The major factor dictating time needed to acquire a scan is the number of k-space phase-encoding trajectories sampled. As such, reducing acquisition time (by drastically under-sampling k-space) while maintaining reconstruction fidelity has long been a goal of researchers in the field. Here, we used a deep learning model to both find an optimal k-space sub-sampling scheme and reconstruct high-quality brain MR data from drastically undersampled inputs. This was achieved by jointly training a physical sub-sampling layer and a classic encoder-decoder type CNN architecture. Even though it was given no prior information on the importance of choosing center frequencies to achieve better reconstructions, our model easily outperformed a naive control and converged to preferring sub-sampling masks with higher weights on center columns. In fact, the same model almost matched performance seen with controls that incorporate a small percent of center frequencies and, therefore, have the advantage of being given a priori knowledge. These finds are exciting because they suggest that incorporing k-space sub-sampling as an optmizable parameter is not only possible,  but might be ultimately advantageous in informing scanner sampling trajectories so as to drastically reduce MR acquision time without compromising end reconstruction fidelity.
+
+<p>
+FastMRI initiative website, where a request to download and use the dataset can be made <a href="https://fastmri.org">here</a>.
+<p>
+Link to Facebook repository, with source code used as base for this implementation <a href="https://github.com/facebookresearch/fastMRI">here</a>.
+<tr><td align="center">
+<br>
+
+<!-- Provide link to your write-up -->
+<tr><td align="left">
+Paper:
+<ul>
+<li><a href="BME590L_finalpaper.pdf"><font size="+1">Paper PDF</font></a>
+</ul>
+
+<tr><td align="left">
+<!--Code and Data:-->
+<ul>
+<!--<li>You can provide a link to your code here: <a href="code.zip">download zip</a>-->
+<!--<li>If you'd like, you can provide a link to your data here: <a href="my_data.tgz">download tgz</a>-->
+</ul>
+
+</table>
+</center>
+
+
+
+</BODY>

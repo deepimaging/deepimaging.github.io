@@ -1,0 +1,59 @@
+<!-- The structure for this template is code adapted from https://cs.nyu.edu/~deigen/depth/ -->
+<!-- Please site this website if made public -->
+<HTML>
+<HEAD>
+<title>MyProject: Deep Neural Networks with Physical Layers</title>
+<LINK REL="stylesheet" HREF="style.css">
+</HEAD>
+<BODY bgcolor="white">
+<center>
+<h2>Optimizing Sparse View Raw CT Data for Intracranial Hemorrhage Classification</h2>
+<h3>Long Shen &nbsp;&nbsp;&nbsp;&nbsp;
+    Qiuwen Wei
+
+</h3>
+<h4>
+long.shen<!-- x -->@<!-- -->duke.<!-- h -->edu
+&nbsp;&nbsp;&nbsp;
+qiuwen.wei<!-- x -->@<!-- -->duke.<!-- h -->edu
+
+</h4>
+<p>
+<table border=0 width="25%">
+<tr>
+<!-- Provide link to your paper below -->
+<td align="center"><a href="Final_Report.pdf"><font size="+1">Paper PDF</font></a>
+</tr>
+</table>
+
+<!-- Provide link to your "teaser figure - this should summarize your findings at a glace" -->
+<p>
+<img src="figure_1.png" width="80%">
+<p>
+<table width="80%">
+<tr><td align="left">
+<p>
+
+Intracranial hemorrhage is an important and serious public health problem, which lead to high risk of death and disability. Computed tomography (CT) is the primary imaging modality used to evaluate the hemorrhage in the head. A widely known drawback of CT is the high doses of radiation applied to the patients during scanning. Reducing the number of projections is one direct way to decrease the amount of radiation exposure at the sacrifice of losing information and worse final reconstructed images. To study the relationship between numbers of CT projections and classification performance, we built a machine learning model to binarily classify intracranial hemorrhage based on sparse view raw CT data. We implemented two separate trainable physical layers to simulate changing mean effective energy of X-ray at each scan and image filtering applied before back projection. The performance of four models that consist different physical layers are evaluated. To explore the effect of sparsity in sinogram on classification accuracy, we trained our final model with eight datasets containing different numbers of projections. We found that the Fourier mask layer brings more improvements to our model performance and a projection number greater than five guarantee us a validation accuracy above 80% with our model.
+
+
+<!-- Provide link to your write-up -->
+<tr><td align="left">
+Paper:
+<ul>
+<li><a href="Final_Report.pdf"><font size="+1">Paper PDF</font></a>
+</ul>
+
+<tr><td align="left">
+Code and Data:
+<ul>
+<li>You can provide a link to your code here: <a href="https://github.com/shenlongleon/BME590-Final-Project">GitHub link </a>
+<li>If you'd like, you can provide a link to your data here: <a href="https://github.com/shenlongleon/BME590-Final-Project/tree/master/original_ct_images">GitHub link </a>
+</ul>
+
+</table>
+</center>
+
+
+
+</BODY>

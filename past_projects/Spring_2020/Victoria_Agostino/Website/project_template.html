@@ -1,0 +1,44 @@
+<!-- The structure for this template is code adapted from https://cs.nyu.edu/~deigen/depth/ -->
+<!-- Please site this website if made public -->
+<HTML>
+<HEAD>
+<title>Vessel Segmentation With U-Net</title>
+<LINK REL="stylesheet" HREF="style.css">
+</HEAD>
+<BODY bgcolor="white">
+<center>
+<h2>Vessel Segmentation With U-Net</h2>
+<h3>Victoria D'Agostino &nbsp;&nbsp;&nbsp;&nbsp;
+</h3>
+<h4>
+vwd<!-- x -->@<!-- -->duke.<!-- h -->edu
+&nbsp;&nbsp;&nbsp;
+</h4>
+<p>
+<table border=0 width="15%">
+<!-- Provide link to your paper below -->
+<td align="center"><a href="my_paper.pdf"><font size="+1">Paper PDF</font></a>
+</table>
+<!-- Provide link to your "teaser figure - this should summarize your findings at a glace" -->
+<img src="Header_Image.pdf" width="60%">
+<table width="80%">
+<tr><td align="left">
+     The mission of the Center for Global Womens Health Technology (GWHT) is to use optical technologies produce widely accessible healthcare technologies, in particular for womens cancers. Current work involves in vivo models of cancer. Angiogenesis, an important hallmark of cancer, is a desirable endpoint to add. This motivated me to develop a convolutional neural network to segment vasculature. To achieve this I implemented a U-Net architecture with a trainable mask physical layer. I have achieved metrics of 0.1975 loss and 0.9244 accuracy after 30 epochs training with 134 images. I have shown promising results with the addition of a trainable mask. Training with only 20 images, I achieved training loss of 0.392 and validation loss of 0.393, which was an improvement over the same model trained with 20 images without the trainable mask, which yielded training loss of 0.567 and the validation loss was 0.495.
+<!-- Provide link to your write-up -->
+<tr><td align="left">
+Paper:
+<ul>
+<li><a href="my_paper.pdf"><font size="+1">Paper PDF</font></a>
+</ul>
+
+<tr><td align="left">
+Code:
+<li>My code without the physical layer: <a href="https://colab.research.google.com/drive/145yv65hDxfk0_Qfx1Rnn7QGwv7lBS-7Z">Link to CoLab Notebook</a>
+</ul>
+<li>My code with the physical layer: <a href="https://colab.research.google.com/drive/1o68VRrNZrZRZNeYczax2WLYc2HNHgl7A">Link to CoLab Notebook</a>
+</table>
+</center>
+
+
+
+</BODY>
