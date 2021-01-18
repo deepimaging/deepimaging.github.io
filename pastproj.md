@@ -20,4 +20,4 @@ permalink: /proj-past/
 <b> <a href="https://sites.duke.edu/deepimagingpastprojects/">Click Here</a> </b>to view the complete list (login using Duke NetID and password) 
 </br>
 <p></p>
-</br><sub> <b>Note</b>: All efforts have been made to maintain the links within the webpages. However, incase of any broken links, please email <a href="mailto:vinayak.pathak@duke.edu"> vinayak.pathak@duke.edu directly</a>( Fall 2020, Spring 2020 sessions only) mentioning the webpage and the broken link source.</sub>
+</br><sub> <b>Note</b>: All efforts have been made to maintain the links within the webpages. However, incase of any broken links, please email <a href="mailto:vinayak.pathak@duke.edu">vinayak.pathak@duke.edu</a> directly( Fall 2020, Spring 2020 sessions only) mentioning the webpage and the broken link source.</sub>
