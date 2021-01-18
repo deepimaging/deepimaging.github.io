@@ -7,7 +7,7 @@ permalink: /proj-past/
 ---
 
 
-<div class="WordSection1">
+<div>
 
 <p class="MsoNormal" style="margin-top:.25in;margin-right:0in;margin-bottom:12.0pt;
 margin-left:0in;line-height:normal;mso-outline-level:2;background:white"><b><span style="font-size:18.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;mso-fareast-font-family:
