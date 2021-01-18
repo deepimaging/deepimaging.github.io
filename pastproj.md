@@ -18,4 +18,4 @@ permalink: /proj-past/
 |[5](https://www.youtube.com/)|Spring 2019|[ Exploring Physical Parameters for Incoherent Imaging](/past_projects/Spring_2019/06_Davis/project_template.html)
 
 <a href="https://sites.duke.edu/deepimagingpastprojects/">Click Here</a> to view the complete list (login using Duke NetID and password) 
-***All efforts have been made to maintain the links within the webpage, however as the student .Please contact vinayak.pathak@duke.edu directly incase of any broken links for the Fall 2020, Spring 2020 sessions.***
+***All efforts have been made to maintain the links within the webpages. However, incase of any broken links, please email vinayak.pathak@duke.edu directly( Fall 2020, Spring 2020 sessions only) mentioning the webpage and the broken link source.***
