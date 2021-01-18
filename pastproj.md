@@ -17,5 +17,5 @@ permalink: /proj-past/
 |[4](https://www.youtube.com/)|Spring 2019|[Automated Image Focus Detecting Algorithm for Low-Cost Handheld Microscope](/past_projects/Spring_2019/05_ChelalesDeutch/project_template.html)
 |[5](https://www.youtube.com/)|Spring 2019|[ Exploring Physical Parameters for Incoherent Imaging](/past_projects/Spring_2019/06_Davis/project_template.html)
 
-<a href="https://sites.duke.edu/deepimagingpastprojects/wp-login.php?redirect_to=https%3A%2F%2Fsites.duke.edu%2Fdeepimagingpastprojects%2F&reauth=1&action=shibboleth">Click Here</a> to view the complete list (login using Duke NetID and password) [^1]
-[^1]: All efforts have been made to maintain the links within the webpage, however as the student .Please contact vinayak.pathak@duke.edu directly incase of any broken links for the Fall 2020, Spring 2020 sessions. 
+<a href="https://sites.duke.edu/deepimagingpastprojects/">Click Here</a> to view the complete list (login using Duke NetID and password) 
+***All efforts have been made to maintain the links within the webpage, however as the student .Please contact vinayak.pathak@duke.edu directly incase of any broken links for the Fall 2020, Spring 2020 sessions.***
