@@ -178,8 +178,8 @@ margin-left:11.25pt;text-align:justify;line-height:115%;mso-outline-level:2"><b>
 mso-fareast-font-family:&quot;Times New Roman&quot;;color:#24292E;background:white"><o:p>&nbsp;</o:p></span></b></p>
 
 <p class="MsoNormal" style="margin-top:.25in;margin-right:0in;margin-bottom:12.0pt;
-margin-left:11.25pt;text-align:justify;line-height:115%;mso-outline-level:2"><b><span style="font-size:18.0pt;line-height:115%;font-family:&quot;Segoe UI&quot;,sans-serif;
-mso-fareast-font-family:&quot;Times New Roman&quot;;color:#24292E;background:white"><span class="msoIns"><ins>Fall 2020<o:p></o:p></ins></span></span></b></p>
+margin-left:0in;line-height:normal;mso-outline-level:2;background:white"><b><span style="font-size:18.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;color:#24292E">Fall 2020<o:p></o:p></span></b></p>
 
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="789" style="width:591.75pt;margin-left:11.25pt;border-collapse:collapse;mso-yfti-tbllook:
  1184;mso-padding-alt:0in 0in 0in 0in">
@@ -614,17 +614,10 @@ mso-fareast-font-family:&quot;Times New Roman&quot;;color:#24292E;background:whi
  </tr>
 </tbody></table>
 
-<p class="MsoNormal" style="margin-bottom:0in;text-align:justify;line-height:
-115%"><span style="font-size:12.0pt;line-height:115%;font-family:&quot;Segoe UI&quot;,sans-serif;
-mso-fareast-font-family:&quot;Times New Roman&quot;;color:#24292E;background:white"><span class="msoIns"><ins><o:p>&nbsp;</o:p></ins></span></span></p>
 
 <p class="MsoNormal" style="margin-top:.25in;margin-right:0in;margin-bottom:12.0pt;
-margin-left:11.25pt;text-align:justify;line-height:115%;mso-outline-level:2"><b><span style="font-size:18.0pt;line-height:115%;font-family:&quot;Segoe UI&quot;,sans-serif;
-mso-fareast-font-family:&quot;Times New Roman&quot;;color:#24292E;background:white"><span class="msoIns"><ins>Spring 2020<o:p></o:p></ins></span></span></b></p>
-
-<p class="MsoNormal" style="margin-bottom:0in;text-align:justify;line-height:
-115%"><span style="font-size:12.0pt;line-height:115%;font-family:&quot;Segoe UI&quot;,sans-serif;
-mso-fareast-font-family:&quot;Times New Roman&quot;;color:#24292E;background:white"><span class="msoIns"><ins>&nbsp;<o:p></o:p></ins></span></span></p>
+margin-left:0in;line-height:normal;mso-outline-level:2;background:white"><b><span style="font-size:18.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;mso-fareast-font-family:
+&quot;Times New Roman&quot;;color:#24292E">Spring 2020<o:p></o:p></span></b></p>
 
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="783" style="width:587.25pt;margin-left:11.25pt;border-collapse:collapse;mso-yfti-tbllook:
  1184;mso-padding-alt:0in 0in 0in 0in">
