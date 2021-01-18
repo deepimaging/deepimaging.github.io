@@ -5,7 +5,9 @@ permalink: /lectures/
 ---
 | Video Link (Click Lect. #)                       | Date         |  Topics             
 |:---------------------------:|:------------:|:-------------------:
-|[0](https://www.dropbox.com/s/u0728madg0tizof/lecture_0.mp4?dl=0)|18 August 2020|[Introduction (PDF)](/lectures/lecture_0_introduction.pdf)
+|[0](https://www.dropbox.com/s/u0728madg0tizof/lecture_0.mp4?dl=0)|21 January 2021|[Introduction (PDF)](/lectures/lecture_0_introduction.pdf)
+
+<!--
 |[1](https://www.dropbox.com/s/i4643940p5unnth/lecture_1.mp4?dl=0)|20 August 2020|[Overview of Machine Learning and Imaging (PDF)](/lectures/lecture_1_ML-Imaging_Summary_final.pdf)
 |[2](https://www.dropbox.com/s/i4643940p5unnth/lecture_1.mp4?dl=0)|20  August 2020|[Continuous Mathematics Review (PDF)](/lectures/lecture_2_math_continuous.pdf)
 |[3](https://www.dropbox.com/s/9gsryu07j8l4pgh/lecture_3.mp4?dl=0)|25 August 2020|[From Continuous to Discrete Mathematics (PDF)](/lectures/lecture_3_continuous_discrete_math.pdf)
@@ -31,12 +33,6 @@ permalink: /lectures/
 |[23](https://www.dropbox.com/s/tuiy9bj8s30a5k5/lecture_23.mp4?dl=0)|5 November 2020|[Generative Models (PDF)](/lectures/lecture_23_generative_adversarial.pdf)
 |[24](https://www.dropbox.com/s/gystg2vjp4n6ljl/lecture_24.mp4?dl=0)|10 November 2020|[Reinforcement Learning (PDF)](/lectures/lecture_24_reinforcement_learning.pdf)
 |[25](https://www.dropbox.com/s/xhjuh1ushxmv8uu/lecture_25.mp4?dl=0)|12 November 2020|[Machine Learning + Imaging Review (PDF)](/lectures/lecture_25_future_directions_new.pdf)
-
-<!--
-|[18](https://www.dropbox.com/s/5rc6wmbjosok0jy/lecture_18.mp4?dl=0)|31 March 2020|[Physical Layer Guidelines and Implementations (PDF)](/lectures/lecture_18_physical_layer_guidelines.pdf)
-)
-|[22](https://www.dropbox.com/s/x1at4xn98z791kg/lecture_22.mp4?dl=0)|14 April 2020|[Looking ahead – machine learning and imaging in 10 years (PDF)](/lectures/lecture_22_future_directions.pdf)
-)
 -->
 
 
@@ -46,6 +42,7 @@ Here are a few links to useful additional material for reading and viewing:
 2. The Matrix Cookbook [Link](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 3. An introduction to conjugate gradient descent without all the pain [Link](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
 
+<!--
 ### Jupyter Notebook Examples
 1. [Jupyter Notebook: Tensorflow basic optimization example](/data/basic_tensorflow_eager_example.ipynb)
 2. [Jupyter Notebook: High level intro to Neural Networks in Tensorflow](/data/high_level_tf_intro.ipynb)
@@ -53,4 +50,5 @@ Here are a few links to useful additional material for reading and viewing:
 4. [Jupyter Notebook: Weighted image sum example](/data/weighted_image_sum_example.ipynb) - [Associated cube1.mat datafile](/data/cube1.mat)
 5. [Jupyter Notebook: Physical layers example](/data/physical_layers_example.ipynb)
 6. [Jupyter Notebook: GAN example](https://colab.research.google.com/github/tensorflow/gan/blob/master/tensorflow_gan/examples/colab_notebooks/tfgan_tutorial.ipynb)
+-->
 
