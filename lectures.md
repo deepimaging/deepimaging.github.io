@@ -5,7 +5,7 @@ permalink: /lectures/
 ---
 | Video Link (Click Lect. #)                       | Date         |  Topics             
 |:---------------------------:|:------------:|:-------------------:
-|[0](https://www.dropbox.com/s/u0728madg0tizof/lecture_0.mp4?dl=0)|21 January 2021|[Introduction (PDF)](/lectures/lecture_0_introduction.pdf)
+|[0](https://www.dropbox.com/s/4l7s1abmdwx7arp/lecture_0.mp4?dl=0)|21 January 2021|[Introduction (PDF)](/lectures/lecture_0_introduction.pdf)
 
 <!--
 |[1](https://www.dropbox.com/s/i4643940p5unnth/lecture_1.mp4?dl=0)|20 August 2020|[Overview of Machine Learning and Imaging (PDF)](/lectures/lecture_1_ML-Imaging_Summary_final.pdf)
