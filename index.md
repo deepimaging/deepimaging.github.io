@@ -15,7 +15,7 @@ Welcome to Duke University's Machine Learning and Imaging (BME 548) class! This 
 
 The syllabus for Spring 2021 is available [here](./data/syllabus.pdf).
 
-Additional useful information, and guidelines that we'll follow this uniqu semester, are listed [here](./data/Additional_syllabus_material.pdf).
+Additional useful information, and guidelines that we'll follow this unique semester, are listed [here](./data/Additional_syllabus_material.pdf).
 
 This semester, we'll have our class online. Lectures and lab sections will now be held online via Zoom - please check Slack for details about how to join in to the meetings!
 
