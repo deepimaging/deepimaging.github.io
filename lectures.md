@@ -9,10 +9,10 @@ permalink: /lectures/
 |[1](https://www.dropbox.com/s/097cu0g2zrleit3/lecture_1.mp4?dl=0)|26 January 2021|[Overview of Machine Learning and Imaging (PDF)](/lectures/lecture_1_ML-Imaging_Summary_final.pdf)
 |[2](https://www.dropbox.com/s/097cu0g2zrleit3/lecture_1.mp4?dl=0)|26  January 2021|[Continuous Mathematics Review (PDF)](/lectures/lecture_2_math_continuous.pdf)
 |[3](https://www.dropbox.com/s/0hcgbh5paajygaz/lecture_2.mp4?dl=0)|28 January 2021|[From Continuous to Discrete Mathematics (PDF)](/lectures/lecture_3_continuous_discrete_math.pdf)
-|[4](https://www.dropbox.com/)|2 Feb 2021|[Discrete Functions (PDF)](/lectures/lecture_4_math_discrete.pdf)
+|[4](https://www.dropbox.com/s/5x45xmkldccd6s4/lecture_3.mp4?dl=0)|2 Feb 2021|[Discrete Functions (PDF)](/lectures/lecture_4_math_discrete.pdf)
+|[5](https://www.dropbox.com/)|4 Feb 2020|[Introduction to Optimization (PDF)](/lectures/lecture_5_intro_optimization.pdf)
 
 <!--
-|[5](https://www.dropbox.com/s/vrk6d4yl363ny86/lecture_5.mp4?dl=0)|1 September 2020|[Introduction to Optimization (PDF)](/lectures/lecture_5_intro_optimization.pdf)
 |[6](https://www.dropbox.com/s/9ckhlfwiqf42sdx/lecture_6.mp4?dl=0)|3 September 2020|[Ingredients for Machine Learning (PDF)](/lectures/lecture_6_optimization-to-ML.pdf)
 |[7](https://www.dropbox.com/s/85jm6vninwxwcqz/lecture_7.mp4?dl=0)|8 September 2020|[Ingredients for Machine Learning, Part II (PDF)](/lectures/lecture_6_optimization-to-ML.pdf)
 |[8](https://www.dropbox.com/s/7asnvpihs4d7r1z/lecture_8.mp4?dl=0)|10 September 2020|[Linear and Logistic Classification (PDF)](/lectures/lecture_7_ML-principles.pdf)
