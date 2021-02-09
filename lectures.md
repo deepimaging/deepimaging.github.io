@@ -11,10 +11,11 @@ permalink: /lectures/
 |[3](https://www.dropbox.com/s/0hcgbh5paajygaz/lecture_2.mp4?dl=0)|28 January 2021|[From Continuous to Discrete Mathematics (PDF)](/lectures/lecture_3_continuous_discrete_math.pdf)
 |[4](https://www.dropbox.com/s/5x45xmkldccd6s4/lecture_3.mp4?dl=0)|2 Feb 2021|[Discrete Functions (PDF)](/lectures/lecture_4_math_discrete.pdf)
 |[5](https://www.dropbox.com/s/y10stidpk4uy71o/lecture_4.mp4?dl=0)|4 Feb 2020|[Introduction to Optimization (PDF)](/lectures/lecture_5_intro_optimization.pdf)
-|[6](https://www.dropbox.com/)|9 Feb 2021|[Ingredients for Machine Learning (PDF)](/lectures/lecture_6_optimization-to-ML.pdf)
+|[6](https://www.dropbox.com/s/zzajk6vmt1xpoyn/lecture_5.mp4?dl=0)|9 Feb 2021|[Ingredients for Machine Learning (PDF)](/lectures/lecture_6_optimization-to-ML.pdf)
+|[7](https://www.dropbox.com/)|16 Feb 2020|[Ingredients for Machine Learning, Part II (PDF)](/lectures/lecture_6_optimization-to-ML.pdf)
+
 
 <!--
-|[7](https://www.dropbox.com/s/85jm6vninwxwcqz/lecture_7.mp4?dl=0)|8 September 2020|[Ingredients for Machine Learning, Part II (PDF)](/lectures/lecture_6_optimization-to-ML.pdf)
 |[8](https://www.dropbox.com/s/7asnvpihs4d7r1z/lecture_8.mp4?dl=0)|10 September 2020|[Linear and Logistic Classification (PDF)](/lectures/lecture_7_ML-principles.pdf)
 |[9](https://www.dropbox.com/s/ab5ajj5fb6lttci/lecture_9.mp4?dl=0)|15 September 2020|["Deep" Networks: theoretical motivation (PDF)](/lectures/lecture_8_ML_Theory.pdf)
 |[10](https://www.dropbox.com/s/0xoamujllumeyhk/lecture_10.mp4?dl=0)|17 September 2020|[Convolutional Neural Networks (PDF)](/lectures/lecture_9_intro_to_CNN's.pdf)
