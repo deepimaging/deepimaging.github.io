@@ -8,7 +8,7 @@ TA session Python notebooks and other information will be uploaded here.
 
 | TA Session #                       | Week of         |  Resources             
 |:---------------------------:|:------------:|:-------------------:
-|1 |February 1st and 3rd 2020 | [Workbook 1(ipynb)](/data/Lab1_workbook.ipynb), [TA Notebook (ipynb)](/data/TA_session_week_2.ipynb)
+|1 |February 1st and 3rd 2020 | [Workbook 1(ipynb)](/data/Lab1_workbook.ipynb), [TA Notebook (ipynb)](/data/TA_session_week_2.ipynb), [Completed Workbook](https://colab.research.google.com/drive/1yNUEBtl-TRUcdUVA2SFJ9y1F_irTCrJn?usp=sharing)
 |2 |February 8th and 10th 2020 | [Workbook 2(ipynb)](/data/BME548L_lab2.ipynb)
 
 
