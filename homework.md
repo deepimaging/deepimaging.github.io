@@ -6,8 +6,9 @@ permalink: /assigns/
 ---
 [Pre-class survey](https://forms.office.com/Pages/ResponsePage.aspx?id=TsVyyzFKnk2xSh6jbfrJTEqzfSiuTVtPvyRRNbRF_HxURDhPQUFWOFQ4MUxTOUw3WkhMN1VYOEZYVi4u)
 
-<!--
 1. [Homework 1](/homework/hw1.md)
+
+<!--
 2. [Homework 2](/homework/hw2.md)
 3. [Homework 3](/homework/hw3.md)
 4. [Project Proposals](/homework/projectproposal.md)
