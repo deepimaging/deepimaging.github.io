@@ -11,7 +11,7 @@ TA session Python notebooks and other information will be uploaded here.
 |1 |February 1st and 3rd 2021 | [Workbook 1(ipynb)](/data/Lab1_workbook.ipynb), [TA Notebook (ipynb)](/data/TA_session_week_2.ipynb), [Completed Workbook](https://colab.research.google.com/drive/1yNUEBtl-TRUcdUVA2SFJ9y1F_irTCrJn?usp=sharing)
 |2 |February 8th and 10th 2021 | [Workbook 2(ipynb)](/data/BME548L_lab2.ipynb)
 |3 |February 22nd and 24th 2021 | [Machine Learning Pipeline](/tasess/ml_pipeline_F20.pdf), [Hands on Machine Learning](/data/BME_548L_Lab4.ipynb), [Solution](https://colab.research.google.com/drive/1rRPwcc3VuGINWBrtJic_xo7u9CgxHU-K?usp=sharing)
-
+|4 |March 1st and 3rd 2021 | [Neural Networks in Depth](/tasess/BME_548L_Lab5.ipynb)
 
 <!--
 |1 |August 24th and 26th 2020 | [Workbook 1(ipynb)](/data/Lab1_workbook.ipynb), [TA Notebook (ipynb)](/data/TA_session_week_2.ipynb)
