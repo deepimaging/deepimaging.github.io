@@ -17,11 +17,12 @@ permalink: /lectures/
 |[9](https://www.dropbox.com/s/gnj8bfzcgb4upsu/lecture_8.mp4?dl=0)|18 Feb 2021|["Deep" Networks: theoretical motivation (PDF)](/lectures/lecture_8_ML_Theory.pdf)
 |[10](https://www.dropbox.com/s/9vnx6r1vjdcqi7q/lecture_9.mp4?dl=0)|23 Feb 2021|[Convolutional Neural Networks (PDF)](/lectures/lecture_9_intro_to_CNN's.pdf)
 |[11](https://www.dropbox.com/s/yhaweum3sjl3crh/lecture_10.mp4?dl=0)|25 Feb 2021|[Convolutional Neural Networks (PDF)](/lectures/lecture_9_intro_to_CNN's.pdf)
-|[12](https://www.dropbox.com/)|2 March 2021|[Automatic Differentiation and Backpropagation (PDF)](/lectures/lecture_10_Backpropagation.pdf)
+|[12](https://www.dropbox.com/s/k9ld3zkmsyioyvl/lecture_11.mp4?dl=0)|2 March 2021|[Tools for your Deep Learning Toolbox (PDF)](/lectures/lecture_10_useful_DL_tools.pdf)
+|[13](https://www.dropbox.com/)|4 March 2021|[Automatic Differentiation and Backpropagation (PDF)](/lectures/lecture_11_Backpropagation.pdf)
+
 
 
 <!--
-|[13](https://www.dropbox.com/s/3gs0fcalr84yl2k/lecture_13.mp4?dl=0)|29 September 2020|[Tools for your Deep Learning Toolbox (PDF)](/lectures/lecture_11_useful_DL_tools.pdf)
 |[14](https://www.dropbox.com/s/roiap9bno1sm1y8/lecture_14.mp4?dl=0)|1 October 2020|[CNN implementation details (PDF)](/lectures/lecture_12_CNNs_practical_tips.pdf)
 |[15](https://www.dropbox.com/s/rg310dcsk95r9i1/lecture_15.mp4?dl=0)|6 October 2020|[CNN visualization tools and extensions (PDF)](/lectures/lecture_13_CNN-visualization-extensions.pdf)
 |[16](https://www.dropbox.com/s/i848y8ofqenuo60/lecture_16.mp4?dl=0)|8 October 2020|[CNN extensions and object detection (PDF)](/lectures/lecture_14a_object_detection_segmentation.pdf)
