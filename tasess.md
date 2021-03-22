@@ -14,6 +14,7 @@ TA session Python notebooks and other information will be uploaded here.
 |4 |March 1st and 3rd 2021 | [Neural Networks in Depth](/tasess/BME_548L_Lab5.ipynb)
 |5 |March 8th and 17th 2021| [Convolutional Neural Networks](/data/BME_548L_lab6.ipynb), [Completed Notebook](https://colab.research.google.com/drive/1cSnY8fhXosGBSCA1tsmmEyDda91vazx8?usp=sharing)
 |6 |March 15th and 24th 2021| [Established Architectures](/data/BME_548L_lab_7.ipynb), [Completed Notebook](https://colab.research.google.com/drive/19dOMN_-tS98oT2RQ51-bpF-204wyFO6S?usp=sharing)
+|7 |March 22nd and 31st 2021| [Custom Layers](/data/BME_548L_Lab8.ipynb), [Completed Notebook](https://colab.research.google.com/drive/1vNC66jq3WueXN8t2jwRl-4Ww25Y1Effk?usp=sharing)
 
 <!--
 |1 |August 24th and 26th 2020 | [Workbook 1(ipynb)](/data/Lab1_workbook.ipynb), [TA Notebook (ipynb)](/data/TA_session_week_2.ipynb)
