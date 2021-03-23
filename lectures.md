@@ -47,11 +47,11 @@ Here are a few links to useful additional material for reading and viewing:
 ### Jupyter Notebook Examples
 1. [Jupyter Notebook: Tensorflow basic optimization example](/data/basic_tensorflow_eager_example.ipynb)
 2. [Jupyter Notebook: High level intro to Neural Networks in Tensorflow](/data/high_level_tf_intro.ipynb)
+3. [Jupyter Notebook: Weighted image sum example](/data/weighted_image_sum_example.ipynb) - [Associated cube1.mat datafile](/data/cube1.mat)
+4. [Jupyter Notebook: Physical layers example](/data/physical_layers_example.ipynb)
 
 <!--
-3. [Jupyter Notebook: A simple Autoencoder in Tensorflow/Keras](/data/Simple_Autoencoder.ipynb)
-4. [Jupyter Notebook: Weighted image sum example](/data/weighted_image_sum_example.ipynb) - [Associated cube1.mat datafile](/data/cube1.mat)
-5. [Jupyter Notebook: Physical layers example](/data/physical_layers_example.ipynb)
+5. [Jupyter Notebook: A simple Autoencoder in Tensorflow/Keras](/data/Simple_Autoencoder.ipynb)
 6. [Jupyter Notebook: GAN example](https://colab.research.google.com/github/tensorflow/gan/blob/master/tensorflow_gan/examples/colab_notebooks/tfgan_tutorial.ipynb)
 -->
 
