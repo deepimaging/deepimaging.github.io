@@ -23,7 +23,7 @@ permalink: /lectures/
 |[15](https://www.dropbox.com/s/mkicv5i5l50prgh/lecture_14.mp4?dl=0)|16 March 2021|[CNN visualization tools and extensions (PDF)](/lectures/lecture_13_CNN-visualization-extensions.pdf)
 |[16](https://www.dropbox.com/s/0nhauy3yyvoppka/lecture_15.mp4?dl=0)|18 March 2021|[CNN extensions and object detection (PDF)](/lectures/lecture_14a_object_detection_segmentation.pdf)
 |[17](https://www.dropbox.com/s/jws3nq94m5ni18p/lecture_16.mp4?dl=0)|23 March 2021|[Introduction to Physical Layers in Machine Learning (PDF)](/lectures/lecture_15_intro_physical_CNNs.pdf)
-|[18](https://www.dropbox.com/)|15 October 2020|[CNNs, Autoencoders and Segmentation (PDF)](/lectures/lecture_16_segmentation_autoencoder.pdf)
+|[18](https://www.dropbox.com/)|15 October 2020|[CNNs, Autoencoders and Segmentation (PDF)](/lectures/lecture_16_segmentation.pdf)
 
 <!--
 |[19](https://www.dropbox.com/s/15xv22ar3o51me1/lecture_16.mp4?dl=0)|20 October 2020|[Introduction to Fourier Optics (PDF)](/lectures/lecture_16_intro_Fourier_optics.pdf)
