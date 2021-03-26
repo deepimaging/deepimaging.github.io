@@ -21,7 +21,7 @@ permalink: /lectures/
 |[13](https://www.dropbox.com/s/psvf4qh3952trms/lecture_12.mp4?dl=0)|4 March 2021|[Automatic Differentiation and Backpropagation (PDF)](/lectures/lecture_11_Backpropagation.pdf)
 |[14](https://www.dropbox.com/s/zksaootrsvh6lfx/lecture_13.mp4?dl=0)|11 March 2021|[CNN implementation details (PDF)](/lectures/lecture_12_CNNs_practical_tips.pdf)
 |[15](https://www.dropbox.com/s/mkicv5i5l50prgh/lecture_14.mp4?dl=0)|16 March 2021|[CNN visualization tools and extensions (PDF)](/lectures/lecture_13_CNN-visualization-extensions.pdf)
-|[16](https://www.dropbox.com/s/0nhauy3yyvoppka/lecture_15.mp4?dl=0)|18 March 2021|[CNN extensions and object detection (PDF)](/lectures/lecture_14a_object_detection_segmentation.pdf)
+|[16](https://www.dropbox.com/s/0nhauy3yyvoppka/lecture_15.mp4?dl=0)[16b](https://www.dropbox.com/s/4ayig9f963mbojw/lecture_15b.mp4?dl=0)|18 March 2021|[CNN extensions and object detection (PDF)](/lectures/lecture_14a_object_detection_segmentation.pdf)
 |[17](https://www.dropbox.com/s/jws3nq94m5ni18p/lecture_16.mp4?dl=0)|23 March 2021|[Introduction to Physical Layers in Machine Learning (PDF)](/lectures/lecture_15_intro_physical_CNNs.pdf)
 |[18](https://www.dropbox.com/s/9vvvgpgnll6zzbw/lecture_17.mp4?dl=0)|25 March 2021|[CNNs, Autoencoders and Segmentation (PDF)](/lectures/lecture_16_segmentation.pdf)
 |[19](https://www.dropbox.com/)|30 March 2021|[Introduction to Fourier Optics (PDF)](/lectures/lecture_16_intro_Fourier_optics.pdf)
