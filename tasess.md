@@ -19,7 +19,9 @@ TA session Python notebooks and other information will be uploaded here.
 |9| April 5th and April 14th| [Physical Layers](/data/BME_548L_Lab11.ipynb) [Completed Notebook](https://colab.research.google.com/drive/12u1zXUnZwc31dFlVY9HoHh2MM0H1DUQ-?usp=sharing)
 |10| April 19th and 21st| [Discrete Optimization](/data/BME_548L_Lab13.ipynb)
 
+
 Extra Tutorial Notebooks and associated Solutions
+
 | Topic                       |  Resources             
 |:---------------------------:|:-------------------:
 | Unsupervised Learning | [Unsupervised Learning](/data/BME_548L_Lab10.ipynb), [Completed Notebook](https://colab.research.google.com/drive/1qKaGg-rHVSuYy7np_B1Ii7-GLL3he_ry?usp=sharing)
