@@ -16,9 +16,14 @@ TA session Python notebooks and other information will be uploaded here.
 |6 |March 15th and 24th 2021| [Established Architectures](/data/BME_548L_lab_7.ipynb), [Completed Notebook](https://colab.research.google.com/drive/19dOMN_-tS98oT2RQ51-bpF-204wyFO6S?usp=sharing)
 |7 |March 22nd and 31st 2021| [Custom Layers](/data/BME_548L_Lab8.ipynb), [Completed Notebook](https://colab.research.google.com/drive/1vNC66jq3WueXN8t2jwRl-4Ww25Y1Effk?usp=sharing)
 |8 |March 29th and April 7th 2021| [Beyond Image Classification](/data/BME_548L_Lab9.ipynb), [Completed Notebook](https://colab.research.google.com/drive/1w1ZHFR6r-zpMc5rOot-9AyN4hv8B6bGy?usp=sharing)
-|9| April 5th and April 14th| [Physical Layers](/data/BME_548L_Lab11.ipynb)
+|9| April 5th and April 14th| [Physical Layers](/data/BME_548L_Lab11.ipynb) [Completed Notebook](https://colab.research.google.com/drive/12u1zXUnZwc31dFlVY9HoHh2MM0H1DUQ-?usp=sharing)
 |10| April 19th and 21st| [Discrete Optimization](/data/BME_548L_Lab13.ipynb)
 
+Extra Tutorial Notebooks and associated Solutions
+| Topic                       |  Resources             
+|:---------------------------:|:-------------------:
+| Unsupervised Learning | [Unsupervised Learning](/data/BME_548L_Lab10.ipynb), [Completed Notebook](https://colab.research.google.com/drive/1qKaGg-rHVSuYy7np_B1Ii7-GLL3he_ry?usp=sharing)
+| Eager Mode + Probability| [Eager Mode + Probability](/data/BME_548L_Lab12.ipynb) [Completed Notebook](https://colab.research.google.com/drive/1rUgAWKBsyeUl-MSpxCDQh2sMxPOG8ypT?usp=sharing)
 
 <!--
 |1 |August 24th and 26th 2020 | [Workbook 1(ipynb)](/data/Lab1_workbook.ipynb), [TA Notebook (ipynb)](/data/TA_session_week_2.ipynb)
