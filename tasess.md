@@ -17,7 +17,7 @@ TA session Python notebooks and other information will be uploaded here.
 |7 |March 22nd and 31st 2021| [Custom Layers](/data/BME_548L_Lab8.ipynb), [Completed Notebook](https://colab.research.google.com/drive/1vNC66jq3WueXN8t2jwRl-4Ww25Y1Effk?usp=sharing)
 |8 |March 29th and April 7th 2021| [Beyond Image Classification](/data/BME_548L_Lab9.ipynb), [Completed Notebook](https://colab.research.google.com/drive/1w1ZHFR6r-zpMc5rOot-9AyN4hv8B6bGy?usp=sharing)
 |9| April 5th and April 14th| [Physical Layers](/data/BME_548L_Lab11.ipynb) [Completed Notebook](https://colab.research.google.com/drive/12u1zXUnZwc31dFlVY9HoHh2MM0H1DUQ-?usp=sharing)
-|10| April 19th and 21st| [Discrete Optimization](/data/BME_548L_Lab13.ipynb)
+
 
 
 Extra Tutorial Notebooks and associated Solutions
@@ -40,6 +40,7 @@ Extra Tutorial Notebooks and associated Solutions
 |10| Oct 26th and 28th 2020| [Unsupervised Learning](/data/BME_548L_Lab10.ipynb), [Completed Notebook](https://colab.research.google.com/drive/1qKaGg-rHVSuYy7np_B1Ii7-GLL3he_ry?usp=sharing)
 |11| Nov 2nd and 4th 2020| [Physical Layers](/data/BME_548L_Lab11.ipynb)
 |12| Nov 9th and 11th 2020| [Eager Mode + Probability](/data/BME_548L_Lab12.ipynb)
+|10| April 19th and 21st| [Discrete Optimization](/data/BME_548L_Lab13.ipynb)
 -->
 
 <!--
