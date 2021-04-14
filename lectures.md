@@ -28,10 +28,10 @@ permalink: /lectures/
 |[20](https://www.dropbox.com/s/ng3ol02xmtrt3un/lecture_19.mp4?dl=0)|1 April 2021|[Coherent Physical Layers and Layer Guidelines (PDF)](/lectures/lecture_20_coherent_physical_layers_and_guidelines.pdf)
 |[21](https://www.dropbox.com/s/iz8zqv73oww2xev/lecture_20.mp4?dl=0)|6 Apirl 2021|[Published Physical CNN Examples and Ethics (PDF)](/lectures/lecture_21_PhysicalCNN_examples.pdf)
 |[22](https://www.dropbox.com/s/s250gndnm6k5hy5/lecture_21.mp4?dl=0)|8 April 2021|[Recurrent Neural Networks (PDF)](/lectures/lecture_22_RNNs.pdf)
-|[23](https://www.dropbox.com/)|13 April 2021|[Generative Models (PDF)](/lectures/lecture_23_generative_adversarial.pdf)
+|[23](https://www.dropbox.com/s/uf095vtpcx07tlu/lecture_22.mp4?dl=0)|13 April 2021|[Generative Models (PDF)](/lectures/lecture_21_generative_adversarial.pdf)
+|[24](https://www.dropbox.com/)|15 April 2021|[Reinforcement Learning (PDF)](/lectures/lecture_24_reinforcement_learning.pdf)
 
 <!--
-|[24](https://www.dropbox.com/s/gystg2vjp4n6ljl/lecture_24.mp4?dl=0)|10 November 2020|[Reinforcement Learning (PDF)](/lectures/lecture_24_reinforcement_learning.pdf)
 |[25](https://www.dropbox.com/s/xhjuh1ushxmv8uu/lecture_25.mp4?dl=0)|12 November 2020|[Machine Learning + Imaging Review (PDF)](/lectures/lecture_25_future_directions_new.pdf)
 -->
 
