@@ -23,7 +23,7 @@ Here is a link to the permission form:
 [Permission form](/data/permission_form.pdf)
 
 Using the above files, you'll thus turn in the following:
-1. A 7-10 minute presentation with slides that you will give to the class during the final period  
+1. An 8 minute presentation with slides that you will give to the class during the final period  
 2. A short research-style paper (4 pages minimum, 6 pages maximum) that includes an abstract, introduction, related work, methods, results, a discussion, references and at least 3 figures. 
 3. The project’s source code
 4. A completed web template containing the main results from the research paper
@@ -31,9 +31,9 @@ Using the above files, you'll thus turn in the following:
 
 
 Here are some important dates:
-- Final code and presentation due via email: Tuesday November 24 at noon
-- Final presentation paper write-up, website template and permission form due: Tuesday November 24 at midnight
-- Final presentation time slots: Tuesday November 24, 2pm - 5pm
+- Final code and presentation due via email: Wednesday April 28 at 9pm
+- Final presentation paper write-up, website template and permission form due: Thursday April 28 at 9pm
+- Final presentation time slots: Thursday April 29, 9am - noon
 - Final presentations will occur via Zoom, please coordinate with team members and practice ahead of time!
 
 
