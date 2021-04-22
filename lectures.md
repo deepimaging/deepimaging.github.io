@@ -30,8 +30,8 @@ permalink: /lectures/
 |[22](https://www.dropbox.com/s/s250gndnm6k5hy5/lecture_21.mp4?dl=0)|8 April 2021|[Recurrent Neural Networks (PDF)](/lectures/lecture_22_RNNs.pdf)
 |[23](https://www.dropbox.com/s/uf095vtpcx07tlu/lecture_22.mp4?dl=0)|13 April 2021|[Generative Models (PDF)](/lectures/lecture_21_generative_adversarial.pdf)
 |[24](https://www.dropbox.com/s/uqwb7qt1c9yvxzm/lecture_23.mp4?dl=0)|15 April 2021|[Reinforcement Learning (PDF)](/lectures/lecture_22_reinforcement_learning.pdf)
-|[25](https://www.dropbox.com/s/0y9p1p1gqulv1zl/lecture_24.mp4?dl=0)|20 April 2021|[Machine Learning + Imaging Review (PDF)](/lectures/lecture_23_future_directions_new.pdf)
-
+|[25](https://www.dropbox.com/s/0y9p1p1gqulv1zl/lecture_24.mp4?dl=0)|20 April 2021|[Future Directions (PDF)](/lectures/lecture_23_future_directions_new.pdf)
+|[26](https://www.dropbox.com/s/i4lt3tarr3zkvig/lecture_25.mp4?dl=0)|22 April 2021|[Machine Learning + Imaging Review (PDF)](/lectures/lecture_23_future_directions_new.pdf)
 <!--
 -->
 
